@@ -1,10 +1,10 @@
-# About [repository-name]
+# About blacklist
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/blacklist.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/blacklist)
 
 
 ```
-[description]
+A blacklist from different contributors to the Ultimate Hosts Blacklist project.
 ```
 
 --------------------------------------------------------------------------------
