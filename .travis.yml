@@ -31,5 +31,5 @@ python:
 - '3.7'
 script:
 - ultimate-hosts-blacklist-input-repo-updater --version
-- ultimate-hosts-blacklist-input-repo-updater -m -p 25
+- ultimate-hosts-blacklist-input-repo-updater -m
 sudo: required
