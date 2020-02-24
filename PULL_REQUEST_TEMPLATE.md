@@ -3,13 +3,13 @@ Introduction of:
 *Please list here the list of sub-domains that you introduced.*
 
 * `example.org`
-  * If an explanation about the whitelisting request exist, please put it here.
+  * If an explanation about the blacklisting request exist, please put it here.
   * If there is a documentation link about the owner or the trust page of the owner, please put it here.
 * `test.example.org`
-  * If an explanation about the whitelisting exist request, please put it here.
+  * If an explanation about the blacklisting exist request, please put it here.
   * If there is a documentation link about the owner or the trust page of the owner, please put it here.
   
-*Please put here a wiki page (if exist) which is relevant with your whitelisting request.*
+*Please put here a wiki page (if exist) which is relevant with your blacklisting request.*
 
 
 # Checklist
