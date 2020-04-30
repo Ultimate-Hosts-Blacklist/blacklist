@@ -1,38 +1,33 @@
+dist: bionic
 env:
     global:
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
     -   TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/blacklist
     -   GIT_BRANCH: master
-    -   secure: "E16cbkjeTb8PD/EIL99lF1FeTyQd+OVndZCw72ET0i9Bv9VnWYW+fI8yePzCoz28G5s69DTvtqe9GUKpO+GXP2tk9RluGoAjvMbvKBkWBV4AP6XH541Zyv6WT2JGu8OKpAT9on7uapYauquJiYMCYvxPkZ8dxq7lMbRnaknzAXiARPQRWgwVMO7Lj/x1Dg84w6FhUZMKb631uYy0Y6GSvYDGvzKn5h50inU3ZJOkovfFoa7ayLzKTpdkJ7/if9NwN8wmD2v02v6AcKxOEZlusbZlDsJ9rqd/DJAmQGEB0v1meJtnt3Poqlc8st4vcfuFLFs2xfo9BfC1uZZSBcSDnK5nQGPcYgFnRZd7mPPYFjTAKBPDGmTvTAJ4ydRcCYyvmmuCO7nHrc60lw4ze64uhZ7V61CNPrmf6zajP4Eis82XNhz+qKl3yKaLDIul+M9M6LBbKIwbQud+mgt9jyPFPLLBPWK16TTgXw6h1tJH6EPAGxWFdWtRiq66goEaxlV0T73CEGnrjj6/qeVsgQ32KNFpeCfycmKOKCwmdRbt+YjffdpME+qwEfjVlymlNlfU5L780VKcM9ih2ptTq8V3jA6A5x2ub9jkWkyEnVcinVZw7eaQIa0JUmT61n/NnNE9POjhZQHnnNKy3uNvXBxvuGbwXEtEKyF3pTH4hUUTUr0="
-    -   PYTHON_VERSION: "3.8.1"
-
-dist: bionic
-language: generic
-
+    -   secure: E16cbkjeTb8PD/EIL99lF1FeTyQd+OVndZCw72ET0i9Bv9VnWYW+fI8yePzCoz28G5s69DTvtqe9GUKpO+GXP2tk9RluGoAjvMbvKBkWBV4AP6XH541Zyv6WT2JGu8OKpAT9on7uapYauquJiYMCYvxPkZ8dxq7lMbRnaknzAXiARPQRWgwVMO7Lj/x1Dg84w6FhUZMKb631uYy0Y6GSvYDGvzKn5h50inU3ZJOkovfFoa7ayLzKTpdkJ7/if9NwN8wmD2v02v6AcKxOEZlusbZlDsJ9rqd/DJAmQGEB0v1meJtnt3Poqlc8st4vcfuFLFs2xfo9BfC1uZZSBcSDnK5nQGPcYgFnRZd7mPPYFjTAKBPDGmTvTAJ4ydRcCYyvmmuCO7nHrc60lw4ze64uhZ7V61CNPrmf6zajP4Eis82XNhz+qKl3yKaLDIul+M9M6LBbKIwbQud+mgt9jyPFPLLBPWK16TTgXw6h1tJH6EPAGxWFdWtRiq66goEaxlV0T73CEGnrjj6/qeVsgQ32KNFpeCfycmKOKCwmdRbt+YjffdpME+qwEfjVlymlNlfU5L780VKcM9ih2ptTq8V3jA6A5x2ub9jkWkyEnVcinVZw7eaQIa0JUmT61n/NnNE9POjhZQHnnNKy3uNvXBxvuGbwXEtEKyF3pTH4hUUTUr0=
+    -   PYTHON_VERSION: 3.8.1
 install:
-  - export PATH="${HOME}/miniconda/bin:${PATH}"
-  - wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
-  - bash miniconda.sh -b -p ${HOME}/miniconda
-  - hash -r
-  - conda config --set always_yes yes --set changeps1 no
-  - conda update -q conda
-  - conda create -q -n test-environment python="${PYTHON_VERSION}"
-  - source activate test-environment
-  - python -VV
-  - pip --version
-  - pip install ultimate-hosts-blacklist-input-repo-updater
-  - rm miniconda.sh
-
-script:
-  - ultimate-hosts-blacklist-input-repo-updater --version
-  - ultimate-hosts-blacklist-input-repo-updater -m
-
+- export PATH="${HOME}/miniconda/bin:${PATH}"
+- wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
+- bash miniconda.sh -b -p ${HOME}/miniconda
+- hash -r
+- conda config --set always_yes yes --set changeps1 no
+- conda update -q conda
+- conda create -q -n test-environment python="${PYTHON_VERSION}"
+- source activate test-environment
+- python -VV
+- pip --version
+- pip install ultimate-hosts-blacklist-input-repo-updater
+- rm miniconda.sh
+language: generic
 notifications:
-  email:
-    recipients:
-      - dead-hosts@funilrys.com
-      - mitchellkrogza+ultimatehostsblacklist@gmail.com
-    on_success: never
-    on_failure: always
-
+    email:
+        on_failure: always
+        on_success: never
+        recipients:
+        - dead-hosts@funilrys.com
+        - mitchellkrogza+ultimatehostsblacklist@gmail.com
+script:
+- ultimate-hosts-blacklist-input-repo-updater --version
+- ultimate-hosts-blacklist-input-repo-updater -m
