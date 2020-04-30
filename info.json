@@ -1,6 +1,21 @@
 {
-    "currently_under_test": "0",
+    "currently_under_test": false,
     "days_until_next_test": 1,
-    "name": "Ultimate-Hosts-Blacklist/blacklist",
-    "raw_link": ""
+    "name": "blacklist",
+    "previous_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 0,
+            "invalid": 0,
+            "malicious": 0,
+            "sane": 0,
+            "tested": 0,
+            "up": 0,
+            "valid": 0
+        },
+        "volatile.list": 0
+    },
+    "raw_link": "",
+    "start_datetime": "2020-04-30T17:54:40.166783",
+    "start_epoch": 1588269280.166783
 }
