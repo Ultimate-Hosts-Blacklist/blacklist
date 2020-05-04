@@ -12,6 +12,7 @@ command_before_end: ''
 cooldown_time: null
 custom_ip: 0.0.0.0
 days_between_db_retest: 1
+days_between_inactive_db_clean: 28
 db_type: json
 debug: false
 dns_lookup_over_tcp: false
@@ -151,6 +152,7 @@ outputs:
     splited:
         directory: splited
 plain_list_domain: true
+print_dots: false
 quiet: true
 reputation: false
 seconds_before_http_timeout: 6
@@ -213,3 +215,4 @@ user_agent:
     platform: linux
 verify_ssl_certificate: false
 whois_database: true
+wildcard: false
