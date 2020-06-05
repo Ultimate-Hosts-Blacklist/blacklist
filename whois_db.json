@@ -62,7 +62,7 @@
     "lottoknacker.info": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "lottoknacker.net": {
         "epoch": 1605139200.0,
