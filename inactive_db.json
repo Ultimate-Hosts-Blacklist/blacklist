@@ -3,64 +3,64 @@
         "accounts.you.tube-award.pro": {
             "included_at_epoch": 1590323222.031905,
             "included_at_iso": "2020-05-24T12:27:02.031905",
-            "last_retested_at_epoch": 1592937805.584016,
-            "last_retested_at_iso": "2020-06-23T18:43:25.584016",
+            "last_retested_at_epoch": 1593109899.469343,
+            "last_retested_at_iso": "2020-06-25T18:31:39.469343",
             "status": "INACTIVE"
         },
         "copyright.you.tube-award.pro": {
             "included_at_epoch": 1590323166.633793,
             "included_at_iso": "2020-05-24T12:26:06.633793",
-            "last_retested_at_epoch": 1592937715.161934,
-            "last_retested_at_iso": "2020-06-23T18:41:55.161934",
+            "last_retested_at_epoch": 1593109924.96505,
+            "last_retested_at_iso": "2020-06-25T18:32:04.965050",
             "status": "INACTIVE"
         },
         "www.directfilesdown.com": {
             "included_at_epoch": 1590323230.826673,
             "included_at_iso": "2020-05-24T12:27:10.826673",
-            "last_retested_at_epoch": 1592937717.107656,
-            "last_retested_at_iso": "2020-06-23T18:41:57.107656",
+            "last_retested_at_epoch": 1593109938.362886,
+            "last_retested_at_iso": "2020-06-25T18:32:18.362886",
             "status": "INACTIVE"
         },
         "www.mittechnik.com": {
             "included_at_epoch": 1590323169.190662,
             "included_at_iso": "2020-05-24T12:26:09.190662",
-            "last_retested_at_epoch": 1592937774.436609,
-            "last_retested_at_iso": "2020-06-23T18:42:54.436609",
+            "last_retested_at_epoch": 1593109876.986233,
+            "last_retested_at_iso": "2020-06-25T18:31:16.986233",
             "status": "INACTIVE"
         },
         "www.pc-safety-scan.pro": {
             "included_at_epoch": 1590323169.478315,
             "included_at_iso": "2020-05-24T12:26:09.478315",
-            "last_retested_at_epoch": 1592937717.994942,
-            "last_retested_at_iso": "2020-06-23T18:41:57.994942",
+            "last_retested_at_epoch": 1593109958.857242,
+            "last_retested_at_iso": "2020-06-25T18:32:38.857242",
             "status": "INACTIVE"
         },
         "www.sdkfjxjertertry.com": {
             "included_at_epoch": 1590323193.712829,
             "included_at_iso": "2020-05-24T12:26:33.712829",
-            "last_retested_at_epoch": 1592937716.842296,
-            "last_retested_at_iso": "2020-06-23T18:41:56.842296",
+            "last_retested_at_epoch": 1593109935.211202,
+            "last_retested_at_iso": "2020-06-25T18:32:15.211202",
             "status": "INACTIVE"
         },
         "www.thomecallex.com": {
             "included_at_epoch": 1590323137.122528,
             "included_at_iso": "2020-05-24T12:25:37.122528",
-            "last_retested_at_epoch": 1592937718.243517,
-            "last_retested_at_iso": "2020-06-23T18:41:58.243517",
+            "last_retested_at_epoch": 1593109938.598095,
+            "last_retested_at_iso": "2020-06-25T18:32:18.598095",
             "status": "INACTIVE"
         },
         "www.tube-award.pro": {
             "included_at_epoch": 1590323191.74018,
             "included_at_iso": "2020-05-24T12:26:31.740180",
-            "last_retested_at_epoch": 1592937774.19048,
-            "last_retested_at_iso": "2020-06-23T18:42:54.190480",
+            "last_retested_at_epoch": 1593109934.95934,
+            "last_retested_at_iso": "2020-06-25T18:32:14.959340",
             "status": "INACTIVE"
         },
         "you.tube-award.pro": {
             "included_at_epoch": 1590323242.415535,
             "included_at_iso": "2020-05-24T12:27:22.415535",
-            "last_retested_at_epoch": 1592937743.507385,
-            "last_retested_at_iso": "2020-06-23T18:42:23.507385",
+            "last_retested_at_epoch": 1593109955.243563,
+            "last_retested_at_iso": "2020-06-25T18:32:35.243563",
             "status": "INACTIVE"
         }
     }
