@@ -92,7 +92,7 @@
     "pc-safety-scan.pro": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "querverdiener.com": {
         "epoch": 1603411200.0,
