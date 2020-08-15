@@ -24,6 +24,11 @@
         "expiration_date": "02-mar-2021",
         "state": "future"
     },
+    "doktor-rezeptfrei.com": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
+    },
     "downloadsrvs.com": {
         "epoch": 1625788800.0,
         "expiration_date": "09-jul-2021",
@@ -52,6 +57,11 @@
     "kartenluchs.com": {
         "epoch": 1616976000.0,
         "expiration_date": "29-mar-2021",
+        "state": "future"
+    },
+    "kunden24.com": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "lottoknacker.com": {

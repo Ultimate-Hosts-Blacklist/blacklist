@@ -4,7 +4,7 @@
     "name": "blacklist",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 61,
+        "clean_list": 68,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -14,11 +14,11 @@
             "up": 0,
             "valid": 0
         },
-        "domains.list": 39,
-        "volatile.list": 61,
-        "whitelisted.list": 61
+        "domains.list": 43,
+        "volatile.list": 68,
+        "whitelisted.list": 68
     },
     "raw_link": "",
-    "start_datetime": "2020-08-15T18:28:37.943011",
-    "start_epoch": 1597516117.943011
+    "start_datetime": "2020-08-15T20:28:49.322814",
+    "start_epoch": 1597523329.322814
 }
