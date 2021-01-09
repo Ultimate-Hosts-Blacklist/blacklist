@@ -148,7 +148,6 @@ plain_list_domain: true
 print_dots: false
 quiet: true
 reputation: false
-rpz: false
 shadow_file: false
 share_logs: true
 show_execution_time: false
