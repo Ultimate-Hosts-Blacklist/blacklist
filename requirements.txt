@@ -1,2 +1,2 @@
-PyFunceble
-ultimate-hosts-blacklist-input-repo-updater
+PyFunceble-dev
+ultimate-hosts-blacklist-test-launcher
