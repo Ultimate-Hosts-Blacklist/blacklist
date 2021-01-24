@@ -2,7 +2,7 @@ name: UHB Test Workflow
 on:
   push:
     branches:
-      - "*"
+      - "master"
 
 env:
   GIT_NAME: "${{ secrets.GIT_BOT_NAME }}"
