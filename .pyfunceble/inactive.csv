@@ -1,5 +1,5 @@
-idna_subject,checker_type,destination,source,tested_at
-accounts.you.tube-award.pro,AVAILABILITY,domains.list,/home/runner/work/blacklist/blacklist/domains.list,2021-01-24 10:21:22.670229
-bestebestellung.de,AVAILABILITY,domains.list,/home/runner/work/blacklist/blacklist/domains.list,2021-01-24 10:21:37.469718
-copyright.you.tube-award.pro,AVAILABILITY,domains.list,/home/runner/work/blacklist/blacklist/domains.list,2021-01-24 10:22:44.880127
-you.tube-award.pro,AVAILABILITY,domains.list,/home/runner/work/blacklist/blacklist/domains.list,2021-01-24 10:25:49.580071
+idna_subject,checker_type,destination,tested_at
+bestebestellung.de,AVAILABILITY,domains.list,2021-03-01 00:16:24.396703
+accounts.you.tube-award.pro,AVAILABILITY,domains.list,2021-03-01 00:17:24.665774
+you.tube-award.pro,AVAILABILITY,domains.list,2021-03-01 00:17:31.390436
+copyright.you.tube-award.pro,AVAILABILITY,domains.list,2021-03-01 00:17:35.393451

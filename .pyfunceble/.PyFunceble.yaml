@@ -55,8 +55,10 @@ debug:
     active: false
     level: info
 dns:
+    follow_server_order: true
     protocol: UDP
     server: null
+    trust_server: false
 http_codes:
     list:
         potentially_down:
@@ -71,7 +73,6 @@ http_codes:
         - 416
         - 451
         potentially_up:
-        - 0
         - 300
         - 301
         - 302
@@ -126,6 +127,7 @@ http_codes:
 links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
     api_no_referer: https://pyfunceble.funilrys.com/api/no-referer
+    api_no_referrer: https://pyfunceble.funilrys.com/api/no-referrer
 lookup:
     dns: true
     http_status_code: true

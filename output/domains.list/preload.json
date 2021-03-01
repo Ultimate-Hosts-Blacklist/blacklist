@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/blacklist/blacklist/domains.list",
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
     "hash": "a344b2f246d76a229913a69f4d90574a5a7073bc37730d8ddc3e616c",
     "line_number": 46,
-    "output_dir": "/home/runner/work/blacklist/blacklist/output/domains.list",
+    "output_dir": "/var/lib/jenkins/workspace/hosts-blacklist_blacklist_master/output/domains.list",
     "previous_hash": "a344b2f246d76a229913a69f4d90574a5a7073bc37730d8ddc3e616c",
-    "rel_source": "domains.list",
-    "session_id": "097178d19a1de2f88edbda2c",
-    "source": "/home/runner/work/blacklist/blacklist/domains.list",
-    "subject": "/home/runner/work/blacklist/blacklist/domains.list",
+    "session_id": "f2fe1a6bf728ae35a754b3f3",
+    "source": "domains.list",
+    "subject": "domains.list",
     "subject_type": "domain",
     "type": "file"
 }
