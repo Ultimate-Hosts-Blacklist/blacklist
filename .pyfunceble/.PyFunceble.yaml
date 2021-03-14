@@ -33,7 +33,7 @@ cli_testing:
     file_filter: null
     file_generation:
         analytic: true
-        hosts: true
+        hosts: false
         no_file: false
         plain: true
         unified_results: false
@@ -73,6 +73,7 @@ http_codes:
         - 416
         - 451
         potentially_up:
+        - 0
         - 300
         - 301
         - 302
@@ -126,7 +127,6 @@ http_codes:
     self_managed: false
 links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
-    api_no_referer: https://pyfunceble.funilrys.com/api/no-referer
     api_no_referrer: https://pyfunceble.funilrys.com/api/no-referrer
 lookup:
     dns: true
