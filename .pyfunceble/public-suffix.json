@@ -1368,6 +1368,7 @@
         "logoip.com",
         "scrysec.com",
         "firewall-gateway.com",
+        "temp-dns.com",
         "myshopblocks.com",
         "myshopify.com",
         "shopitsite.com",
@@ -1383,7 +1384,6 @@
         "stackhero-network.com",
         "playstation-cloud.com",
         "api.stdlib.com",
-        "temp-dns.com",
         "dsmynas.com",
         "familyds.com",
         "thingdustdata.com",
@@ -1400,6 +1400,7 @@
         "woltlab-demo.com",
         "wpenginepowered.com",
         "js.wpenginepowered.com",
+        "wixsite.com",
         "xnbay.com",
         "u2.xnbay.com",
         "u2-local.xnbay.com",
@@ -2167,6 +2168,7 @@
         "cust.testing.thingdust.io",
         "2038.io",
         "wedeploy.io",
+        "editorx.io",
         "basicserver.io",
         "virtualserver.io"
     ],
@@ -8154,10 +8156,10 @@
         "edu.vu",
         "net.vu",
         "org.vu",
+        "cn.vu",
         "blog.vu",
         "dev.vu",
-        "me.vu",
-        "cn.vu"
+        "me.vu"
     ],
     "win": [
         "that.win"
