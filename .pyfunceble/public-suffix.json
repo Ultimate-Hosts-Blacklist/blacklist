@@ -1556,6 +1556,8 @@
         "deno.dev",
         "fly.dev",
         "gateway.dev",
+        "github.dev",
+        "githubpreview.dev",
         "iserv.dev",
         "lcl.dev",
         "lclstage.dev",
@@ -1869,7 +1871,6 @@
         "de.gt",
         "edu.gt",
         "gob.gt",
-        "ind.gt",
         "mil.gt",
         "net.gt",
         "nom.gt",
@@ -1906,6 +1907,7 @@
         "gov.hk",
         "idv.hk",
         "inc.hk",
+        "ind.gt",
         "ltd.hk",
         "net.hk",
         "nym.hk",
@@ -7610,6 +7612,7 @@
         "net.sh",
         "now.sh",
         "org.sh",
+        "storj.farm",
         "us.platform.sh",
         "vxl.sh",
         "wedeploy.sh"
@@ -7702,7 +7705,8 @@
         "store.st"
     ],
     "store": [
-        "shopware.store"
+        "shopware.store",
+        "storebase.store"
     ],
     "su": [
         "abkhazia.su",
@@ -8317,7 +8321,6 @@
         "mus.mi.us",
         "nc.us",
         "nd.us",
-        "ne.us",
         "nh.us",
         "nj.us",
         "nm.us",
@@ -8450,6 +8453,7 @@
         "edu.ws",
         "gov.ws",
         "mypets.ws",
+        "ne.us",
         "net.ws",
         "org.ws"
     ],
