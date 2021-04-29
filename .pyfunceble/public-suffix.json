@@ -1580,6 +1580,7 @@
         "blogspot.dk",
         "co.dk",
         "firm.dk",
+        "mycd.eu",
         "reg.dk",
         "store.dk"
     ],
@@ -1693,7 +1694,6 @@
         "cloudns.eu",
         "diskstation.eu",
         "jelastic.dogado.eu",
-        "mycd.eu",
         "spdns.eu",
         "transurl.eu",
         "wellbeingzone.eu"
@@ -1871,6 +1871,7 @@
         "de.gt",
         "edu.gt",
         "gob.gt",
+        "ind.gt",
         "mil.gt",
         "net.gt",
         "nom.gt",
@@ -1907,7 +1908,6 @@
         "gov.hk",
         "idv.hk",
         "inc.hk",
-        "ind.gt",
         "ltd.hk",
         "net.hk",
         "nym.hk",
@@ -4699,7 +4699,6 @@
         "mypep.link"
     ],
     "lk": [
-        "ac.lk",
         "assn.lk",
         "com.lk",
         "edu.lk",
@@ -4941,6 +4940,7 @@
         "org.mu"
     ],
     "museum": [
+        "ac.lk",
         "academy.museum",
         "agriculture.museum",
         "air.museum",
@@ -7612,7 +7612,6 @@
         "net.sh",
         "now.sh",
         "org.sh",
-        "storj.farm",
         "us.platform.sh",
         "vxl.sh",
         "wedeploy.sh"
@@ -8321,6 +8320,7 @@
         "mus.mi.us",
         "nc.us",
         "nd.us",
+        "ne.us",
         "nh.us",
         "nj.us",
         "nm.us",
@@ -8453,7 +8453,6 @@
         "edu.ws",
         "gov.ws",
         "mypets.ws",
-        "ne.us",
         "net.ws",
         "org.ws"
     ],
