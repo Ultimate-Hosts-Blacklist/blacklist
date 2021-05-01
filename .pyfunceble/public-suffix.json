@@ -167,6 +167,7 @@
     "app": [
         "a.run.app",
         "bookonline.app",
+        "developer.app",
         "edgecompute.app",
         "fireweb.app",
         "framer.app",
@@ -174,6 +175,7 @@
         "loginline.app",
         "multibaas.app",
         "netlify.app",
+        "noop.app",
         "northflank.app",
         "ondigitalocean.app",
         "platform0.app",
@@ -1580,7 +1582,6 @@
         "blogspot.dk",
         "co.dk",
         "firm.dk",
-        "mycd.eu",
         "reg.dk",
         "store.dk"
     ],
@@ -1694,6 +1695,7 @@
         "cloudns.eu",
         "diskstation.eu",
         "jelastic.dogado.eu",
+        "mycd.eu",
         "spdns.eu",
         "transurl.eu",
         "wellbeingzone.eu"
@@ -4699,6 +4701,7 @@
         "mypep.link"
     ],
     "lk": [
+        "ac.lk",
         "assn.lk",
         "com.lk",
         "edu.lk",
@@ -4940,7 +4943,6 @@
         "org.mu"
     ],
     "museum": [
-        "ac.lk",
         "academy.museum",
         "agriculture.museum",
         "air.museum",
