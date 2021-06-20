@@ -964,6 +964,7 @@
         "awsglobalaccelerator.com",
         "awsmppl.com",
         "balena-devices.com",
+        "barsycenter.com",
         "barsyonline.com",
         "beta.bounty-full.com",
         "betainabox.com",
@@ -1916,6 +1917,7 @@
         "inc.hk",
         "ltd.hk",
         "net.hk",
+        "nym.hk",
         "org.hk",
         "secaas.hk",
         "xn--55qx5d.hk",
@@ -6773,7 +6775,6 @@
         "org.nr"
     ],
     "nu": [
-        "barsycenter.com",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
@@ -8470,10 +8471,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--p1acf": [
-        "nym.hk",
-        "xn--c1avg.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
