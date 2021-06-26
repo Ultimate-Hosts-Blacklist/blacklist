@@ -7699,8 +7699,7 @@
         "gov.ss",
         "me.ss",
         "net.ss",
-        "org.ss",
-        "sch.ss"
+        "org.ss"
     ],
     "st": [
         "co.st",
@@ -8471,6 +8470,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--j6w193g": [
+        "sch.ss",
+        "xn--uc0atv.xn--j6w193g"
     ],
     "xyz": [
         "blogsite.xyz",
