@@ -1,7 +1,7 @@
 name: UHB Test Scheduler
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "39 9 * * *"
 
 env:
   GIT_NAME: "${{ secrets.GIT_BOT_NAME }}"
@@ -35,7 +35,7 @@ jobs:
         run: |
           git config --local user.email "$GIT_EMAIL"
           git config --local user.name "$GIT_NAME"
-          git commit -m "[Dead-Hosts::Infrastructure][AuthChecker]" -a
+          git commit -m "[Ultimate Hosts Blacklist][Test Scheduler]" -a
 
       - name: Push changes
         uses: ad-m/github-push-action@master
