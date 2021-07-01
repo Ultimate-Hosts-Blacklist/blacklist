@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "e5a84df0f2960e08a53deb10148faa1cd129f3e7d2f54a4666faae3e",
+    "line_number": 72,
+    "output_dir": "/home/runner/work/blacklist/blacklist/output/domains.list",
+    "previous_hash": "e5a84df0f2960e08a53deb10148faa1cd129f3e7d2f54a4666faae3e",
+    "session_id": "98238b64e335b9aa4dc31794",
+    "source": "domains.list",
+    "subject": "domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
