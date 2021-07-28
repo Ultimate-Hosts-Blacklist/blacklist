@@ -4091,6 +4091,7 @@
         "soo.kagoshima.jp",
         "sosa.chiba.jp",
         "sowa.ibaraki.jp",
+        "spydeberg.no",
         "sue.fukuoka.jp",
         "suginami.tokyo.jp",
         "sugito.saitama.jp",
@@ -4716,7 +4717,6 @@
     ],
     "lc": [
         "co.lc",
-        "com.lc",
         "edu.lc",
         "gov.lc",
         "net.lc",
@@ -4734,6 +4734,9 @@
         "cyon.link",
         "dweb.link",
         "mypep.link"
+    ],
+    "live": [
+        "hlx.live"
     ],
     "lk": [
         "ac.lk",
@@ -5554,6 +5557,7 @@
         "ac.mw",
         "biz.mw",
         "co.mw",
+        "com.lc",
         "com.mw",
         "coop.mw",
         "edu.mw",
@@ -6857,7 +6861,9 @@
         "under.one"
     ],
     "online": [
-        "barsy.online"
+        "barsy.online",
+        "eero-stage.online",
+        "eero.online"
     ],
     "org": [
         "accesscam.org",
@@ -7052,6 +7058,8 @@
         "sld.pa"
     ],
     "page": [
+        "hlx.page",
+        "hlx3.page",
         "magnet.page",
         "pdns.page",
         "plesk.page",
@@ -8575,7 +8583,6 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "oizumi.gunma.jp",
         "org.zw"
     ],
     "рус": [
