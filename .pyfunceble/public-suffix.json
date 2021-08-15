@@ -7522,7 +7522,6 @@
         "med.sa",
         "net.sa",
         "org.sa",
-        "pub.sa",
         "sch.sa"
     ],
     "sale": [
@@ -7691,6 +7690,7 @@
         "me.so",
         "net.so",
         "org.so",
+        "pub.sa",
         "sch.so"
     ],
     "space": [
