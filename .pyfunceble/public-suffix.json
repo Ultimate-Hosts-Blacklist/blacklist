@@ -6789,6 +6789,7 @@
         "org.nr"
     ],
     "nu": [
+        "eero-stage.online",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
@@ -6835,7 +6836,6 @@
     ],
     "online": [
         "barsy.online",
-        "eero-stage.online",
         "eero.online"
     ],
     "org": [
