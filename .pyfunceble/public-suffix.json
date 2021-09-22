@@ -499,7 +499,6 @@
         "app.br",
         "arq.br",
         "art.br",
-        "asso.ci",
         "ato.br",
         "b.br",
         "ba.gov.br",
@@ -1854,7 +1853,6 @@
     ],
     "gl": [
         "biz.gl",
-        "co.gl",
         "com.gl",
         "edu.gl",
         "net.gl",
@@ -1929,6 +1927,7 @@
     ],
     "hk": [
         "blogspot.hk",
+        "co.gl",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -7885,10 +7884,7 @@
         "org.tm"
     ],
     "tn": [
-        "agrinet.tn",
         "com.tn",
-        "defense.tn",
-        "edunet.tn",
         "ens.tn",
         "fin.tn",
         "gov.tn",
@@ -7901,11 +7897,7 @@
         "orangecloud.tn",
         "org.tn",
         "perso.tn",
-        "rnrt.tn",
-        "rns.tn",
-        "rnu.tn",
-        "tourism.tn",
-        "turen.tn"
+        "tourism.tn"
     ],
     "to": [
         "611.to",
