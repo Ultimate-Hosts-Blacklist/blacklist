@@ -1871,7 +1871,8 @@
     ],
     "goog": [
         "cloud.goog",
-        "translate.goog"
+        "translate.goog",
+        "usercontent.goog"
     ],
     "gp": [
         "app.gp",
@@ -5635,7 +5636,6 @@
         "cdn77-ssl.net",
         "centralus.azurestaticapps.net",
         "channelsdvr.net",
-        "clic2000.net",
         "clickrising.net",
         "cloudaccess.net",
         "cloudapp.net",
@@ -7913,6 +7913,9 @@
         "oya.to",
         "rdv.to",
         "vpnplus.to"
+    ],
+    "today": [
+        "prequalifyme.today"
     ],
     "top": [
         "now-dns.top",
