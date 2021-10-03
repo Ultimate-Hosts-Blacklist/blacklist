@@ -53,6 +53,10 @@ cli_testing:
         reputation: false
         syntax: false
     whois_db: true
+collection:
+    preferred_status_origin: frequent
+    push: false
+    url_base: http://localhost:8080
 debug:
     active: false
     level: info
@@ -131,6 +135,7 @@ links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
     api_no_referrer: https://pyfunceble.funilrys.com/api/no-referrer
 lookup:
+    collection: false
     dns: true
     http_status_code: true
     netinfo: true
