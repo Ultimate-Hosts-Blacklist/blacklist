@@ -38,8 +38,6 @@ jobs:
       - name: Install dependencies
         run: |
           pip install ultimate-hosts-blacklist-test-launcher
-          pip uninstall -y PyFunceble-dev
-          pip install --upgrade "PyFunceble-dev @ git+https://github.com/funilrys/PyFunceble.git@collection-dev"
 
       - name: Get PyFunceble version
         run: |
