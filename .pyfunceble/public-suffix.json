@@ -1460,7 +1460,12 @@
         "org.cu"
     ],
     "cv": [
-        "blogspot.cv"
+        "blogspot.cv",
+        "com.cv",
+        "edu.cv",
+        "int.cv",
+        "nome.cv",
+        "org.cv"
     ],
     "cw": [
         "com.cw",
@@ -2777,7 +2782,6 @@
         "arakawa.tokyo.jp",
         "arao.kumamoto.jp",
         "ariake.saga.jp",
-        "arida.wakayama.jp",
         "aridagawa.wakayama.jp",
         "arita.saga.jp",
         "asago.hyogo.jp",
@@ -4626,6 +4630,7 @@
     ],
     "kr": [
         "ac.kr",
+        "arida.wakayama.jp",
         "blogspot.kr",
         "busan.kr",
         "chungbuk.kr",
