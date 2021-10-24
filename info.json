@@ -1,17 +1,17 @@
 {
     "currently_under_test": false,
     "days_until_next_test": 1,
-    "end_datetime": "2021-10-23T12:19:24.751863",
-    "end_epoch": 1634991564.751863,
+    "end_datetime": "2021-10-24T12:23:03.418657",
+    "end_epoch": 1635078183.418657,
     "name": "blacklist",
-    "previous_end_datetime": "2021-10-23T06:59:02.127345",
-    "previous_end_epoch": 1634972342.127345,
-    "previous_start_datetime": "2021-10-23T06:57:49.930341",
-    "previous_start_epoch": 1634972269.930341,
+    "previous_end_datetime": "2021-10-23T12:19:24.751863",
+    "previous_end_epoch": 1634991564.751863,
+    "previous_start_datetime": "2021-10-23T12:18:10.076635",
+    "previous_start_epoch": 1634991490.076635,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "",
-    "start_datetime": "2021-10-23T12:18:10.076635",
-    "start_epoch": 1634991490.076635
+    "start_datetime": "2021-10-24T12:22:00.437128",
+    "start_epoch": 1635078120.437128
 }
