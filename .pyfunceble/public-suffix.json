@@ -480,6 +480,7 @@
         "wiki.bo"
     ],
     "br": [
+        "9guacu.br",
         "abc.br",
         "ac.gov.br",
         "ac.leg.br",
@@ -693,7 +694,8 @@
         "org.bt"
     ],
     "builders": [
-        "cloudsite.builders"
+        "cloudsite.builders",
+        "enterprisecloud.nu"
     ],
     "business": [
         "co.business"
@@ -856,7 +858,6 @@
         "net.cm"
     ],
     "cn": [
-        "9guacu.br",
         "ac.cn",
         "ah.cn",
         "bj.cn",
