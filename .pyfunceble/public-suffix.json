@@ -694,8 +694,7 @@
         "org.bt"
     ],
     "builders": [
-        "cloudsite.builders",
-        "enterprisecloud.nu"
+        "cloudsite.builders"
     ],
     "business": [
         "co.business"
