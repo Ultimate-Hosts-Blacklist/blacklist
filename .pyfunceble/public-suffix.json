@@ -1397,7 +1397,6 @@
         "trycloudflare.com",
         "tuleap-partners.com",
         "u2-local.xnbay.com",
-        "u2.xnbay.com",
         "uk.com",
         "unusualperson.com",
         "us-1.evennode.com",
@@ -6807,7 +6806,8 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu"
+        "shacknet.nu",
+        "u2.xnbay.com"
     ],
     "nz": [
         "ac.nz",
