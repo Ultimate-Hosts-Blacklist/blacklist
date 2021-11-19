@@ -387,7 +387,6 @@
     ],
     "bh": [
         "com.bh",
-        "edu.bh",
         "gov.bh",
         "net.bh",
         "org.bh"
@@ -787,6 +786,7 @@
         "co.ci",
         "com.ci",
         "ed.ci",
+        "edu.bh",
         "edu.ci",
         "fin.ci",
         "go.ci",
