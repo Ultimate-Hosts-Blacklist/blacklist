@@ -387,6 +387,7 @@
     ],
     "bh": [
         "com.bh",
+        "edu.bh",
         "gov.bh",
         "net.bh",
         "org.bh"
@@ -786,7 +787,6 @@
         "co.ci",
         "com.ci",
         "ed.ci",
-        "edu.bh",
         "edu.ci",
         "fin.ci",
         "go.ci",
@@ -1233,7 +1233,6 @@
         "mazeplay.com",
         "members.linode.com",
         "meteorapp.com",
-        "mex.com",
         "miniserver.com",
         "myactivedirectory.com",
         "myasustor.com",
@@ -5724,6 +5723,7 @@
         "map.fastlylb.net",
         "meinforum.net",
         "memset.net",
+        "mex.com",
         "moonscale.net",
         "mydatto.net",
         "mydissent.net",
