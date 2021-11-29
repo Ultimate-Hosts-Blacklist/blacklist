@@ -1,32 +1,32 @@
 {
     "chrome": {
-        "linux": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML%2C like Gecko) Chrome/89.0.4389.105 Safari/537.36",
-        "macosx": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36",
-        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36/nf8neUIX-13"
+        "linux": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4731.0 Safari/537.36",
+        "macosx": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2957.3 Safari/537.36",
+        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36/ZKwKrwtI-54"
     },
     "edge": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34/JxHvEdEN-36"
+        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34/XmWaPe2C-27"
     },
     "firefox": {
-        "linux": "Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0,gzip(gfe)",
-        "macosx": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_4; rv:96.0esr) Gecko/20010101 Firefox/96.0esr",
-        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0/mbb7gok8-18"
+        "linux": "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2018-04-26 08:23:47 Firefox/3.6.16",
+        "macosx": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_0_2; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0/Wt2CaaiY-49"
     },
     "ie": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; Win64; x64; Trident/7.0; Microsoft Outlook 16.0.10380; Microsoft Outlook 16.0.10380; ms-office; MSOffice 16)"
+        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0; Microsoft Outlook 16.0.5197; ms-office; MSOffice 16)"
     },
     "opera": {
-        "linux": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.60",
+        "linux": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36 OPR/56.0.3051.52",
         "macosx": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.60",
-        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.60 (Edition Campaign ISYF)"
+        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML%2C like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.60"
     },
     "safari": {
-        "linux": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/602.1 (KHTML, like Gecko) OpenBoard/1.6.1 Version/10.0 Safari/602.1",
-        "macosx": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/125.4 (KHTML, like Gecko) Safari/125.9",
+        "linux": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36 HeyTapBrowser/15.8.2.1",
+        "macosx": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/FFE7888",
         "win10": null
     }
 }
