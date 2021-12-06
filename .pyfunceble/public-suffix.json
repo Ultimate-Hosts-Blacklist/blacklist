@@ -929,7 +929,6 @@
         "mypi.co",
         "n4t.co",
         "net.co",
-        "nodum.co",
         "nom.co",
         "org.co",
         "otap.co",
@@ -1652,6 +1651,7 @@
         "dapps.earth"
     ],
     "ec": [
+        "base.ec",
         "com.ec",
         "edu.ec",
         "fin.ec",
@@ -1662,6 +1662,7 @@
         "med.ec",
         "mil.ec",
         "net.ec",
+        "official.ec",
         "org.ec",
         "pro.ec"
     ],
@@ -1735,7 +1736,8 @@
         "user.party.eus"
     ],
     "events": [
-        "co.events"
+        "co.events",
+        "koobin.events"
     ],
     "faith": [
         "ybo.faith"
@@ -1754,7 +1756,6 @@
         "fi.cloudplatform.fi",
         "häkkinen.fi",
         "iki.fi",
-        "magentosite.cloud",
         "myspreadshop.fi",
         "paas.datacenter.fi",
         "xn--hkkinen-5wa.fi"
@@ -2185,6 +2186,7 @@
         "dyn53.io",
         "dyndns.dappnode.io",
         "editorx.io",
+        "edugit.io",
         "fh-muenster.io",
         "g.vbrplsbx.io",
         "ghost.io",
@@ -2202,7 +2204,6 @@
         "moonscale.io",
         "ngrok.io",
         "nid.io",
-        "nodum.io",
         "on-k3s.io",
         "on-rio.io",
         "paas.beebyte.io",
@@ -2828,6 +2829,7 @@
         "bungoono.oita.jp",
         "bungotakada.oita.jp",
         "bunkyo.tokyo.jp",
+        "buyshop.jp",
         "buzen.fukuoka.jp",
         "chiba.jp",
         "chichibu.saitama.jp",
@@ -2884,6 +2886,7 @@
         "esan.hokkaido.jp",
         "esashi.hokkaido.jp",
         "etajima.hiroshima.jp",
+        "fashionstore.jp",
         "fuchu.hiroshima.jp",
         "fuchu.tokyo.jp",
         "fuchu.toyama.jp",
@@ -2985,6 +2988,7 @@
         "hanamigawa.chiba.jp",
         "hanawa.fukushima.jp",
         "handa.aichi.jp",
+        "handcrafted.jp",
         "hannan.osaka.jp",
         "hanno.saitama.jp",
         "hanyu.saitama.jp",
@@ -3311,6 +3315,7 @@
         "kawahara.tottori.jp",
         "kawai.iwate.jp",
         "kawai.nara.jp",
+        "kawaiishop.jp",
         "kawajima.saitama.jp",
         "kawakami.nagano.jp",
         "kawakami.nara.jp",
@@ -4107,6 +4112,7 @@
         "sumoto.hyogo.jp",
         "sumoto.kumamoto.jp",
         "sunagawa.hokkaido.jp",
+        "supersale.jp",
         "susaki.kochi.jp",
         "susono.shizuoka.jp",
         "suwa.nagano.jp",
@@ -4202,6 +4208,7 @@
         "tenkawa.nara.jp",
         "tenri.nara.jp",
         "teshikaga.hokkaido.jp",
+        "theshop.jp",
         "toba.mie.jp",
         "tobe.ehime.jp",
         "tobetsu.hokkaido.jp",
@@ -5766,6 +5773,7 @@
         "serveftp.net",
         "serveminecraft.net",
         "sg-1.paas.massivegrid.net",
+        "shopselect.net",
         "siteleaf.net",
         "soc.srcf.net",
         "square7.net",
@@ -6899,7 +6907,6 @@
         "dyndns.org",
         "dynserv.org",
         "edu.eu.org",
-        "edugit.org",
         "ee.eu.org",
         "endofinternet.org",
         "endoftheinternet.org",
@@ -6998,6 +7005,7 @@
         "ro.eu.org",
         "rsc.cdn77.org",
         "ru.eu.org",
+        "s3.teckids.org",
         "se.eu.org",
         "selfip.org",
         "sellsyourhome.org",
@@ -7661,7 +7669,9 @@
         "wedeploy.sh"
     ],
     "shop": [
-        "barsy.shop"
+        "barsy.shop",
+        "base.shop",
+        "hoplix.shop"
     ],
     "si": [
         "blogspot.si",
