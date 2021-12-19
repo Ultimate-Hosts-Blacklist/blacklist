@@ -143,6 +143,7 @@ lookup:
     special: true
     timeout: 5
     whois: true
+max_http_retries: 3
 share_logs: false
 user_agent:
     browser: chrome
