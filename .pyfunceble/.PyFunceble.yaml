@@ -27,8 +27,10 @@ cli_testing:
         dots: false
         execution_time: false
         less: true
+        max_registrar: 15
         percentage: true
         quiet: false
+        registrar: false
         simple: false
         status: all
     file_filter: null
