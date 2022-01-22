@@ -1384,6 +1384,7 @@
         "siiites.com",
         "simple-url.com",
         "sinaapp.com",
+        "site.tb-hosting.com",
         "skygearapp.com",
         "smushcdn.com",
         "space-to-rent.com",
@@ -4688,7 +4689,6 @@
     "ky": [
         "com.ky",
         "edu.ky",
-        "gov.ky",
         "net.ky",
         "org.ky"
     ],
@@ -7057,6 +7057,7 @@
         "sld.pa"
     ],
     "page": [
+        "codeberg.page",
         "hlx.page",
         "hlx3.page",
         "magnet.page",
@@ -8410,8 +8411,7 @@
         "washtenaw.mi.us",
         "wi.us",
         "wv.us",
-        "wy.us",
-        "xn--uc0atv.xn--j6w193g"
+        "wy.us"
     ],
     "uy": [
         "blogspot.com.uy",
