@@ -4391,7 +4391,6 @@
         "xn--8ltr62k.jp",
         "xn--8pvr4u.jp",
         "xn--c3s14m.jp",
-        "xn--comunicaes-v6a2o.museum",
         "xn--d5qv7z876c.jp",
         "xn--djrs72d6uy.jp",
         "xn--djty4k.jp",
@@ -7149,6 +7148,7 @@
         "gda.pl",
         "gdansk.pl",
         "gdynia.pl",
+        "gitpage.si",
         "gliwice.pl",
         "glogow.pl",
         "gmina.pl",
@@ -7681,8 +7681,7 @@
     ],
     "si": [
         "blogspot.si",
-        "gitapp.si",
-        "gitpage.si"
+        "gitapp.si"
     ],
     "site": [
         "barsy.site",
@@ -8134,6 +8133,7 @@
         "ac.uk",
         "adimo.co.uk",
         "affinitylottery.org.uk",
+        "api.gov.uk",
         "barsy.co.uk",
         "barsy.uk",
         "barsyonline.co.uk",
