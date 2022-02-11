@@ -6909,7 +6909,6 @@
         "dvrdns.org",
         "dynalias.org",
         "dyndns.org",
-        "dynserv.org",
         "edu.eu.org",
         "ee.eu.org",
         "endofinternet.org",
@@ -8521,6 +8520,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--p1acf": [
+        "dynserv.org",
+        "xn--c1avg.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
