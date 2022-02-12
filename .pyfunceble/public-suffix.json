@@ -163,6 +163,7 @@
     ],
     "app": [
         "a.run.app",
+        "beget.app",
         "bookonline.app",
         "clerk.app",
         "clerkstage.app",
@@ -1418,6 +1419,7 @@
         "uy.com",
         "vipsinaapp.com",
         "vs.mythic-beasts.com",
+        "vultrobjects.com",
         "wafflecell.com",
         "withgoogle.com",
         "withyoutube.com",
@@ -6909,6 +6911,7 @@
         "dvrdns.org",
         "dynalias.org",
         "dyndns.org",
+        "dynserv.org",
         "edu.eu.org",
         "ee.eu.org",
         "endofinternet.org",
@@ -8520,10 +8523,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--p1acf": [
-        "dynserv.org",
-        "xn--c1avg.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
