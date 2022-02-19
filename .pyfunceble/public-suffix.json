@@ -1021,6 +1021,8 @@
         "dev.adobeaemcloud.com",
         "devcdnaccesso.com",
         "digitaloceanspaces.com",
+        "discordsays.com",
+        "discordsez.com",
         "ditchyourip.com",
         "dnsalias.com",
         "dnsdojo.com",
@@ -7064,7 +7066,8 @@
         "magnet.page",
         "pdns.page",
         "plesk.page",
-        "prvcy.page"
+        "prvcy.page",
+        "translated.page"
     ],
     "party": [
         "ybo.party"
@@ -7539,6 +7542,7 @@
         "code.run",
         "development.run",
         "hs.run",
+        "onporter.run",
         "ravendb.run",
         "repl.run",
         "servers.run"
