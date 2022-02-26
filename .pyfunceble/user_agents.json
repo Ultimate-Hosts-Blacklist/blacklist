@@ -1,18 +1,18 @@
 {
     "chrome": {
         "linux": "Mozilla/5.0 (X11; Linux x86_64;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 SRAF/4.0 Hisense-MSD6886 (Hisense; Micali; V0000.01.00a.K0622; );",
-        "macosx": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML%2C like Gecko) Chrome/89.0.4389.114 Safari/537.36",
-        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Viewer/90.9.9778.79"
+        "macosx": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML%2C like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3671.2 Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
     },
     "edge": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56 Viewer/90.9.2648.49"
+        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4882.0 Safari/537.36 Edg/100.0.1176.0"
     },
     "firefox": {
         "linux": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0 cookie: SID_de664c25=6ef1f1743c8570466825beecf6daaa18; SID_970e2927=6ef1f1743c8570466825beecf6daaa18; cl_today=222; cl_pid=28134540; hpid=78c48ddd675a543b48a04bbe89468f70; cl_cpsw=6d5632555e9cd362e5a5c56 6f848aff2; provider_id=ozby; PHPSESSID=3d745q7b8eburfnjc241pfda2l; beauty_goods_limit_Desktop=96; beauty_viewtype_Desktop=grid; _goods_limit_Desktop=96; perfume_goods_limit_Desktop=96; perfume_viewtype_D esktop=grid; cannedproducts_goods_limit_Desktop=96; cannedproducts_viewtype_Desktop=grid; nutbutters_goods_limit_Desktop=96; nutbutters_viewtype_Desktop=grid; syrups_goods_limit_Desktop=96; syrups_viewty pe_Desktop=grid; grocery_goods_limit_Desktop=96; grocery_viewtype_Desktop=grid; snackfoods_goods_limit_Desktop=96; snackfoods_viewtype_Desktop=grid; babyformulas_goods_limit_Desktop=96; babyformulas_view type_Desktop=grid; boardgames_goods_limit_Desktop=96; boardgames_viewtype_Desktop=grid; modelkits_goods_limit_Desktop=96; modelkits_viewtype_Desktop=grid; bijouterie_goods_limit_Desktop=96; bijouterie_vi ewtype_Desktop=grid; food_goods_limit_Desktop=96; food_viewtype_Desktop=grid; nutritionbars_goods_limit_Desktop=96; nutritionbars_viewtype_Desktop=grid; bubblegums_goods_limit_Desktop=96; bubblegums_view type_Desktop=grid; biscuits_goods_limit_Desktop=96; biscuits_viewtype_Desktop=grid; perfumesets_goods_limit_Desktop=96; perfumesets_viewtype_Desktop=grid; appliances_goods_limit_Desktop=96; appliances_vi ewtype_Desktop=grid; electronics_goods_limit_Desktop=96; electronics_viewtype_Desktop=grid; cannedmeat_goods_limit_Desktop=96; cannedmeat_viewtype_Desktop=grid; home_goods_limit_Desktop=96; home_viewtype _Desktop=grid; pets_goods_limit_Desktop=96; pets_viewtype_Desktop=grid; gardentools_goods_limit_Desktop=96; gardentools_viewtype_Desktop=grid; beautyaccessories_goods_limit_Desktop=96; beautyaccessories_ viewtype_Desktop=grid; menscosmetics_goods_limit_Desktop=96; menscosmetics_viewtype_Desktop=grid; sunscreens_goods_limit_Desktop=96; sunscreens_viewtype_Desktop=grid; footcare_goods_limit_Desktop=96; foo tcare_viewtype_Desktop=grid; facialoils_goods_limit_Desktop=96; facialoils_viewtype_Desktop=grid; books_goods_limit_Desktop=96; books_viewtype_Desktop=grid; kidsfurniture_goods_limit_Desktop=96; kidsfurn iture_viewtype_Desktop=grid; kids_goods_limit_Desktop=96; kids_viewtype_Desktop=grid; nuts_goods_limit_Desktop=96; nuts_viewtype_Desktop=grid; business_goods_limit_Desktop=96; business_viewtype_Desktop=g rid; activity_goods_limit_Desktop=96; activity_viewtype_Desktop=grid; sportsnutrition_goods_limit_Desktop=96; sportsnutrition_viewtype_Desktop=grid; bakingmixes_goods_limit_Desktop=96; bakingmixes_viewty pe_Desktop=grid; spices_goods_limit_Desktop=96; spices_viewtype_Desktop=grid; medicalcosmetics_goods_limit_Desktop=96; medicalcosmetics_viewtype_Desktop=grid; boardgamesaccessories_goods_limit_Desktop=96 ; boardgamesaccessories_viewtype_Desktop=grid; gametables_goods_limit_Desktop=96; gametables_viewtype_Desktop=grid; soyamilk_goods_limit_Desktop=96; soyamilk_viewtype_Desktop=grid; creativesets_goods_lim it_Desktop=96; creativesets_viewtype_Desktop=grid; scratchboardartkits_goods_limit_Desktop=96; scratchboardartkits_viewtype_Desktop=grid; creatingbijouterie_goods_limit_Desktop=96; creatingbijouterie_vie wtype_Desktop=grid; kidsewingkits_goods_limit_Desktop=96; kidsewingkits_viewtype_Desktop=grid; souvenir_goods_limit_Desktop=96; souvenir_viewtype_Desktop=grid; juices_goods_limit_Desktop=96; juices_viewt ype_Desktop=grid; energydrinks_goods_limit_Desktop=96; energydrinks_viewtype_Desktop=grid; earrings_goods_limit_Desktop=96; earrings_viewtype_Desktop=grid; clothing_goods_limit_Desktop=96; clothing_viewt ype_Desktop=grid; slippers_goods_limit_Desktop=96; slippers_viewtype_Desktop=grid; ketchups_goods_limit_Desktop=96; ketchups_viewtype_Desktop=grid; menperfume_goods_limit_Desktop=96; menperfume_viewtype_ Desktop=grid; entertainment_goods_limit_Desktop=96; entertainment_viewtype_Desktop=grid; puzzles_goods_limit_Desktop=96; puzzles_viewtype_Desktop=grid;",
         "macosx": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2; rv:98.0) Gecko/20110101 Firefox/98.0",
-        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0 Config/97.2.3421.22"
+        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0 Agency/98.8.9537.38"
     },
     "ie": {
         "linux": null,
@@ -22,10 +22,10 @@
     "opera": {
         "linux": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36 OPR/84.0.4316.14",
         "macosx": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50 (Edition GX-CN)",
-        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML%2C like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.46"
+        "win10": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.70"
     },
     "safari": {
-        "linux": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4758.101 Safari/537.36",
+        "linux": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; System75) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15 Ubuntu/22.04 Eolie/605.1.15",
         "macosx": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-gb) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1\\x5Cx22) HAVING 6584=1143 AND (\\x5Cx22zTfz\\x5Cx22=\\x5Cx22zTfz",
         "win10": null
     }
