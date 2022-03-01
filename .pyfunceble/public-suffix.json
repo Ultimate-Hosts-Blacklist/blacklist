@@ -7647,9 +7647,12 @@
         "vps.myjino.ru"
     ],
     "run": [
+        "build.run",
         "code.run",
+        "database.run",
         "development.run",
         "hs.run",
+        "migration.run",
         "onporter.run",
         "ravendb.run",
         "repl.run",
