@@ -1611,6 +1611,7 @@
         "stg.dev",
         "stgstage.dev",
         "vercel.dev",
+        "webhare.dev",
         "workers.dev"
     ],
     "digital": [
@@ -6926,8 +6927,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu",
-        "webhare.dev"
+        "shacknet.nu"
     ],
     "nz": [
         "ac.nz",
