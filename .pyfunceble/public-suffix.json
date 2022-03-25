@@ -170,6 +170,7 @@
         "deta.app",
         "developer.app",
         "edgecompute.app",
+        "encr.app",
         "fireweb.app",
         "framer.app",
         "hasura.app",
@@ -953,6 +954,8 @@
         "4u.com",
         "adobeaemcloud.com",
         "africa.com",
+        "airkitapps-au.com",
+        "airkitapps.com",
         "aivencloud.com",
         "alpha-myqnapcloud.com",
         "alpha.bounty-full.com",
@@ -1056,6 +1059,7 @@
         "dynns.com",
         "elasticbeanstalk.com",
         "elb.amazonaws.com",
+        "encoreapi.com",
         "est-a-la-maison.com",
         "est-a-la-masion.com",
         "est-le-patron.com",
@@ -1735,6 +1739,7 @@
         "org.et"
     ],
     "eu": [
+        "airkitapps.eu",
         "barsy.eu",
         "cloudns.eu",
         "diskstation.eu",
