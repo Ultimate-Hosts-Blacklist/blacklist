@@ -1614,6 +1614,7 @@
         "shiftcrypto.dev",
         "stg.dev",
         "stgstage.dev",
+        "user.localcert.dev",
         "vercel.dev",
         "webhare.dev",
         "workers.dev"
