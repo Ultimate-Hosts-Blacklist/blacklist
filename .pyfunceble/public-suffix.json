@@ -5767,6 +5767,7 @@
         "nom.nc"
     ],
     "net": [
+        "1.azurestaticapps.net",
         "a.prod.fastly.net",
         "a.ssl.fastly.net",
         "adobeaemcloud.net",
@@ -8184,6 +8185,7 @@
         "tv.tz"
     ],
     "ua": [
+        "3utilities.com",
         "biz.ua",
         "cc.ua",
         "cherkassy.ua",
