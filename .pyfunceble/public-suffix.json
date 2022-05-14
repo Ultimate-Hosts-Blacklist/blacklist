@@ -822,7 +822,6 @@
         "de.trendhosting.cloud",
         "diadem.cloud",
         "elementor.cloud",
-        "enterprisecloud.nu",
         "es-1.axarnet.cloud",
         "eu.encoway.cloud",
         "fnc.fr-par.scw.cloud",
@@ -1019,6 +1018,7 @@
         "boutir.com",
         "bplaced.com",
         "br.com",
+        "builder.code.com",
         "builtwithdark.com",
         "ca-central-1.elasticbeanstalk.com",
         "cafjs.com",
@@ -1049,6 +1049,7 @@
         "de.com",
         "demo.datadetect.com",
         "demo.jelastic.com",
+        "dev-builder.code.com",
         "dev-myqnapcloud.com",
         "dev.adobeaemcloud.com",
         "devcdnaccesso.com",
@@ -1427,6 +1428,7 @@
         "sphinx.mythic-beasts.com",
         "stackhero-network.com",
         "static.observableusercontent.com",
+        "stg-builder.code.com",
         "stufftoread.com",
         "teaches-yoga.com",
         "temp-dns.com",
@@ -3768,6 +3770,7 @@
         "nagara.chiba.jp",
         "nagareyama.chiba.jp",
         "nagasaki.jp",
+        "nagasaki.nagasaki.jp",
         "nagasu.kumamoto.jp",
         "nagato.yamaguchi.jp",
         "nagatoro.saitama.jp",
@@ -4761,7 +4764,6 @@
         "gov.km",
         "medecin.km",
         "mil.km",
-        "nagasaki.nagasaki.jp",
         "nom.km",
         "notaires.km",
         "org.km",
@@ -7495,6 +7497,7 @@
         "co.place"
     ],
     "pm": [
+        "name.pm",
         "own.pm"
     ],
     "pn": [
@@ -8018,6 +8021,9 @@
     ],
     "technology": [
         "co.technology"
+    ],
+    "tf": [
+        "sch.tf"
     ],
     "th": [
         "ac.th",
@@ -8657,6 +8663,10 @@
         "me.vu",
         "net.vu",
         "org.vu"
+    ],
+    "wf": [
+        "biz.wf",
+        "sch.wf"
     ],
     "win": [
         "that.win"
