@@ -57,9 +57,9 @@ cli_testing:
         syntax: false
     whois_db: true
 collection:
-    preferred_status_origin: frequent
+    preferred_status_origin: recommended
     push: false
-    url_base: http://localhost:8080
+    url_base: https://collection.dead-hosts.funilrys.com
 debug:
     active: false
     level: info
@@ -83,6 +83,7 @@ http_codes:
         - 416
         - 451
         potentially_up:
+        - 0
         - 300
         - 301
         - 302
