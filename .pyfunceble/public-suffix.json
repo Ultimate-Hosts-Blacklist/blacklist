@@ -4990,6 +4990,7 @@
         "org.lv"
     ],
     "ly": [
+        "com.ly",
         "edu.ly",
         "gov.ly",
         "id.ly",
@@ -5290,7 +5291,6 @@
         "coloradoplateau.museum",
         "columbia.museum",
         "columbus.museum",
-        "com.ly",
         "communication.museum",
         "communications.museum",
         "community.museum",
