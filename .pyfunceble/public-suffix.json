@@ -5855,6 +5855,7 @@
     ],
     "net": [
         "1.azurestaticapps.net",
+        "2.azurestaticapps.net",
         "a.prod.fastly.net",
         "a.ssl.fastly.net",
         "adobeaemcloud.net",
