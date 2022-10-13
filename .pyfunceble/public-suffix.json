@@ -1879,7 +1879,8 @@
         "edu.fm",
         "net.fm",
         "org.fm",
-        "radio.fm"
+        "radio.fm",
+        "user.fm"
     ],
     "fr": [
         "aeroport.fr",
@@ -4072,6 +4073,7 @@
         "ooshika.nagano.jp",
         "or.jp",
         "ora.gunma.jp",
+        "org.ml",
         "osaka.jp",
         "osakasayama.osaka.jp",
         "osaki.miyagi.jp",
