@@ -1,8 +1,8 @@
 {
     "currently_under_test": false,
     "days_until_next_test": 1,
-    "end_datetime": "2022-11-10T18:33:55.571292",
-    "end_epoch": 1668105235.571292,
+    "end_datetime": "2022-11-10T18:40:22.883402",
+    "end_epoch": 1668105622.883402,
     "name": "blacklist",
     "previous_end_datetime": "2022-11-10T08:19:25.681672",
     "previous_end_epoch": 1668068365.681672,
@@ -12,6 +12,6 @@
         "config": {}
     },
     "raw_link": "",
-    "start_datetime": "2022-11-10T18:33:11.661401",
-    "start_epoch": 1668105191.661401
+    "start_datetime": "2022-11-10T18:39:32.342309",
+    "start_epoch": 1668105572.342309
 }
