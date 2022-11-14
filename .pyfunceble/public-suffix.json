@@ -586,7 +586,6 @@
         "log.br",
         "londrina.br",
         "ma.gov.br",
-        "ma.leg.br",
         "macapa.br",
         "maceio.br",
         "manaus.br",
@@ -976,6 +975,7 @@
         "web.co"
     ],
     "codes": [
+        "ma.leg.br",
         "owo.codes"
     ],
     "com": [
