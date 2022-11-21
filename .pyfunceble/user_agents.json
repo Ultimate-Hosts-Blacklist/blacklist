@@ -2,7 +2,7 @@
     "chrome": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/96.0.4664.104Safari/537.36",
         "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX8_2_1)AppleWebKit/588.43(KHTML,likeGecko)Chrome/53.0.1984Safari/537.36",
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/107.0.0.0Safari/537.36"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/106.0.0.0Safari/537.36"
     },
     "edge": {
         "linux": null,
@@ -11,7 +11,7 @@
     },
     "firefox": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64;rv:107.0)Gecko/20100101Firefox/107.0",
-        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10.11;rv:78.0)Gecko/20100101Firefox/78.0",
+        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10.10;rv:78.0)Gecko/20100101Firefox/78.0",
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:106.0)Gecko/20100101Firefox/106.0"
     },
     "ie": {
