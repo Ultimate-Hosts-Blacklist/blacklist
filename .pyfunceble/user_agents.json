@@ -1,32 +1,32 @@
 {
     "chrome": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/96.0.4664.104Safari/537.36",
-        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX8_2_1)AppleWebKit/588.43(KHTML,likeGecko)Chrome/53.0.1984Safari/537.36",
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/106.0.0.0Safari/537.36"
+        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36",
+        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10_35_88)AppleWebKit/532.83.36(KHTML,likeGecko)Chrome/57.4.9502.4874Safari/534.54",
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"
     },
     "edge": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/107.0.0.0Safari/537.36Edg/107.0.1418.52"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36Edg/108.0.1462.54"
     },
     "firefox": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64;rv:107.0)Gecko/20100101Firefox/107.0",
-        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10.10;rv:78.0)Gecko/20100101Firefox/78.0",
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:106.0)Gecko/20100101Firefox/106.0"
+        "linux": "Mozilla/5.0(X11;Linuxx86_64;rv:108.0)Gecko/20100101Firefox/108.0",
+        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10.11;rv:78.0)Gecko/20100101Firefox/78.0",
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:108.0)Gecko/20100101Firefox/108.0"
     },
     "ie": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0(compatible;MSIE10.0;WindowsNT10.0;Win64;x64;Trident/7.0;MicrosoftOutlook16.0.15629)"
+        "win10": "Mozilla/4.0(compatible;MSIE7.0;WindowsNT10.0;Win64;x64;Trident/7.0;.NET4.0C;.NET4.0E;.NETCLR2.0.50727;.NETCLR3.0.30729;.NETCLR3.5.30729;Zoom3.6.0;wbx1.0.0;Zoom3.6.0;MicrosoftOutlook16.0.5257;MicrosoftOutlook16.0.5257)"
     },
     "opera": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/106.0.5249.126Safari/537.36OPR/92.0.4561.11",
+        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36OPR/94.0.0.0",
         "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10_11_6)AppleWebKit/537.36(KHTML,likeGecko)Chrome/103.0.5060.134Safari/537.36OPR/89.0.4447.98",
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/106.0.0.0Safari/537.36OPR/92.0.0.0"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/107.0.0.0Safari/537.36OPR/93.0.0.0GLS/97.10.7669.70"
     },
     "safari": {
-        "linux": "Mozilla/5.0(Linux;x86_64GNU/Linux)AppleWebKit/601.1(KHTML,likeGecko)Version/8.0Safari/601.1WPEAAMP/4.6",
-        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10_11_3)AppleWebKit/601.4.4(KHTML,likeGecko)Version/9.0.3Safari/601.4.4",
+        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.43.06(KHTML,likeGecko)Version/4.0.5Safari/530.61",
+        "macosx": "Safari/18614.3.7.1.5CFNetwork/1402.0.8Darwin/22.2.0",
         "win10": null
     }
 }
