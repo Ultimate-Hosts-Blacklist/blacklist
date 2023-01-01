@@ -5,7 +5,6 @@ cli_decoding:
     wildcard: false
 cli_testing:
     autocontinue: false
-    chancy_tester: false
     ci:
         active: false
         branch: master
@@ -28,10 +27,8 @@ cli_testing:
         dots: false
         execution_time: false
         less: true
-        max_registrar: 15
         percentage: true
         quiet: false
-        registrar: false
         simple: false
         status: all
     file_filter: null
@@ -83,6 +80,7 @@ http_codes:
         - 416
         - 451
         potentially_up:
+        - 0
         - 300
         - 301
         - 302
@@ -146,12 +144,6 @@ lookup:
     special: true
     timeout: 5
     whois: true
-max_http_retries: 3
-proxy:
-    global:
-        http: null
-        https: null
-    rules: []
 share_logs: false
 user_agent:
     browser: chrome
