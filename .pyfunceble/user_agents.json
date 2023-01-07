@@ -7,7 +7,7 @@
     "edge": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36Edg/108.0.1462.54"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36Edg/108.0.1462.54LikeWise/95.6.2295.96"
     },
     "firefox": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64;rv:102.0)Gecko/20100101Firefox/102.0",
@@ -17,12 +17,12 @@
     "ie": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/4.0(compatible;MSIE7.0;WindowsNT10.0;Win64;x64;Trident/7.0;.NET4.0C;.NET4.0E;.NETCLR2.0.50727;.NETCLR3.0.30729;.NETCLR3.5.30729;Zoom3.6.0;wbx1.0.0;Zoom3.6.0;MicrosoftOutlook16.0.5257;MicrosoftOutlook16.0.5257)"
+        "win10": "Mozilla/5.0(compatible;MSIE10.0;WindowsNT10.0;Win64;x64;Trident/7.0;MicrosoftOutlook16.0.15601;MicrosoftOutlook16.0.15601)"
     },
     "opera": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/107.0.5304.91Safari/537.36OPR/92.0.4561.11",
         "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10_11_6)AppleWebKit/537.36(KHTML,likeGecko)Chrome/103.0.5060.134Safari/537.36OPR/89.0.4447.98",
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36OPR/94.0.0.0(EditionCampaign76)"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36OPR/94.0.0.0(Edition360-1)"
     },
     "safari": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0SamsungBrowser/7.4Chrome/108.0.5359.128Safari/537.36",
