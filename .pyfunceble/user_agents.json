@@ -1,18 +1,18 @@
 {
     "chrome": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36",
-        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10_22_84)AppleWebKit/532.80.33(KHTML,likeGecko)Chrome/57.4.9223.4596Safari/534.51",
+        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX8_0_1)AppleWebKit/560.42(KHTML,likeGecko)Chrome/89.0.1227Safari/537.36",
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36Trailer/98.3.3772.73"
     },
     "edge": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36Edg/108.0.1462.76"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36Edg/108.0.1462.76OpenWave/94.4.8773.74"
     },
     "firefox": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64;rv:108.0)Gecko/20100101Firefox/108.0",
+        "linux": "Mozilla/5.0(X11;Linuxx86_64;rv:99.0)Gecko/20100101Firefox/99.0",
         "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10.9;rv:78.0)Gecko/20100101Firefox/78.0",
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:107.0)Gecko/20100101Firefox/107.0"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:108.0)Gecko/20100101Firefox/108.0"
     },
     "ie": {
         "linux": null,
@@ -25,7 +25,7 @@
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36OPR/94.0.0.0"
     },
     "safari": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0SamsungBrowser/7.4Chrome/108.0.5359.128Safari/537.36",
+        "linux": "Mozilla/5.0(X11;Linuxx86_64;MIBOX4Build/PI;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/108.0.5359.128Safari/537.36QuickSearchTV/WildMoonEdition120.01",
         "macosx": "Safari/18614.3.7.1.5CFNetwork/1402.0.8Darwin/22.2.0",
         "win10": null
     }
