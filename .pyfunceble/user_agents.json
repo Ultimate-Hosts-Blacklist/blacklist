@@ -1,13 +1,13 @@
 {
     "chrome": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36",
-        "macosx": "Mozilla/5.0(Macintosh;U;IntelMacOSX10_45_98)AppleWebKit/533.94.57(KHTML,likeGecko)Chrome/57.5.0507.5879Safari/530.64Edge/34.60583",
+        "macosx": "Mozilla/5.0(Macintosh;U;PPCMacOSX10_51_04)AppleWebKit/534.19.62(KHTML,likeGecko)Chrome/53.6.1133.7405Safari/530.70Edge/34.86845",
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36"
     },
     "edge": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.61"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.70"
     },
     "firefox": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64;rv:109.0)Gecko/20100101Firefox/109.0",
@@ -17,7 +17,7 @@
     "ie": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0(compatible;MSIE10.0;WindowsNT10.0;Win64;x64;Trident/7.0;MicrosoftOutlook16.0.15601;MicrosoftOutlook16.0.15601)"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64;Trident/7.0;C8TolLXf-9;rv:11.0)likeGecko"
     },
     "opera": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/102.0.5005.99Safari/537.36OPR/86.0.4363.50",
@@ -25,7 +25,7 @@
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36OPR/94.0.0.0"
     },
     "safari": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/109.0.5414.86MobileSafari/537.36",
+        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/109.0.5414.118MobileSafari/537.36",
         "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX13_1)AppleWebKit/605.1.15(KHTML,likeGecko)Version/13.0Safari/605.1.15",
         "win10": null
     }
