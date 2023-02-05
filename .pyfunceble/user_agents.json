@@ -1,16 +1,16 @@
 {
     "chrome": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36",
+        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/96.0.4664.110Safari/537.36",
         "macosx": "Mozilla/5.0(Macintosh;U;PPCMacOSX10_51_04)AppleWebKit/534.19.62(KHTML,likeGecko)Chrome/53.6.1133.7405Safari/530.70Edge/34.86845",
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36"
     },
     "edge": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.70"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.78Unique/91.7.7876.77"
     },
     "firefox": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64;rv:109.0)Gecko/20100101Firefox/109.0",
+        "linux": "Mozilla/5.0(X11;Intruder;Linuxx86_64;rv:45.0)Gecko/20100101Firefox/45.0",
         "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX13.0;rv:86.0)Gecko/20100101Firefox/86.0",
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:109.0)Gecko/20100101Firefox/109.0"
     },
@@ -25,8 +25,8 @@
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36OPR/94.0.0.0"
     },
     "safari": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/109.0.5414.118MobileSafari/537.36",
-        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX13_1)AppleWebKit/605.1.15(KHTML,likeGecko)Version/13.0Safari/605.1.15",
+        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/605.1.15(KHTML,likeGecko)Version/16.0Safari/605.1.15wails.io/605.1.15",
+        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10_11_5)AppleWebKit/605.1.15(KHTML,likeGecko)Version/15.6.1Safari/605.1.15(AirWatchBrowserv22.12)",
         "win10": null
     }
 }
