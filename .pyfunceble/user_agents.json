@@ -1,18 +1,18 @@
 {
     "chrome": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36",
-        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10_39_76)AppleWebKit/531.70.27(KHTML,likeGecko)Chrome/56.1.6865.1593Safari/532.09Edge/36.04146",
+        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/535.11(KHTML,likeGecko)Chrome/79.0.963.83Safari/535.11doapps/1.0",
+        "macosx": "Mozilla/5.0(Macintosh;U;IntelMacOSX10_49_92)AppleWebKit/533.98.51(KHTML,likeGecko)Chrome/57.5.0032.6304Safari/530.69Edge/34.65821",
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36"
     },
     "edge": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.41"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.46"
     },
     "firefox": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64;rv:109.0)Gecko/20100101Firefox/109.0",
+        "linux": "Mozilla/5.0(X11;Linuxx86_64;rv:108.0)Gecko/20100101Firefox/108.0",
         "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX13.0;rv:86.0)Gecko/20100101Firefox/86.0",
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:109.0)Gecko/20100101Firefox/109.0/p2WN75K4dAKEyzAB"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:73.0)Gecko/20100101Firefox/73.0"
     },
     "ie": {
         "linux": null,
@@ -21,7 +21,7 @@
     },
     "opera": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36OPR/87.0.4390.45",
-        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10_11_6)AppleWebKit/537.36(KHTML,likeGecko)Chrome/103.0.5060.134Safari/537.36OPR/89.0.4447.98",
+        "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10_4)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.5379.152Safari/537.36OPR/91.0.4088.66",
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36OPR/95.0.0.0"
     },
     "safari": {
