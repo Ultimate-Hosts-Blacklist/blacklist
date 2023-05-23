@@ -1024,7 +1024,7 @@
     "protection": "whois.nic.protection",
     "pru": "whois.nic.pru",
     "prudential": "whois.nic.prudential",
-    "ps": "whois.pnina.ps",
+    "ps": null,
     "pt": "whois.dns.pt",
     "pub": "whois.nic.pub",
     "pw": "whois.nic.pw",
