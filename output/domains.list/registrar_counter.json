@@ -1,14 +1,10 @@
 {
     "counter": {
-        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 2,
-        "NameCheap, Inc.": 2,
-        "Registrar of Domain Names REG.RU LLC": 2,
-        "total": 6
+        "1api.net": 2,
+        "total": 2
     },
     "percentage": {
-        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 33.333333333333336,
-        "NameCheap, Inc.": 33.333333333333336,
-        "Registrar of Domain Names REG.RU LLC": 33.333333333333336,
+        "1api.net": 100.0,
         "total": 100.0
     }
 }
