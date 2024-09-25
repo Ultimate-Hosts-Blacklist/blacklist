@@ -1,0 +1,30 @@
+{
+    "counter": {
+        "CloudFlare, Inc.": 4,
+        "Go Daddy, LLC": 2,
+        "Hexonet Services Inc / 1API": 2,
+        "IONOS SE": 2,
+        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 2,
+        "NameCheap, Inc.": 6,
+        "Namecheap": 2,
+        "REGRU-SU": 2,
+        "Registrar of Domain Names REG.RU LLC": 2,
+        "Registrar of Domain Names REG.RU, LLC": 2,
+        "Squarespace Domains II LLC": 2,
+        "total": 28
+    },
+    "percentage": {
+        "CloudFlare, Inc.": 14.285714285714286,
+        "Go Daddy, LLC": 7.142857142857143,
+        "Hexonet Services Inc / 1API": 7.142857142857143,
+        "IONOS SE": 7.142857142857143,
+        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 7.142857142857143,
+        "NameCheap, Inc.": 21.428571428571427,
+        "Namecheap": 7.142857142857143,
+        "REGRU-SU": 7.142857142857143,
+        "Registrar of Domain Names REG.RU LLC": 7.142857142857143,
+        "Registrar of Domain Names REG.RU, LLC": 7.142857142857143,
+        "Squarespace Domains II LLC": 7.142857142857143,
+        "total": 99.99999999999999
+    }
+}
