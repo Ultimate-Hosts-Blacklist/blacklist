@@ -631,6 +631,7 @@
         "ba.leg.br",
         "barueri.br",
         "belem.br",
+        "bet.br",
         "bhz.br",
         "bib.br",
         "bio.br",
@@ -699,6 +700,7 @@
         "jor.br",
         "jus.br",
         "leg.br",
+        "leilao.br",
         "lel.br",
         "log.br",
         "londrina.br",
@@ -1663,6 +1665,7 @@
         "myasustor.com",
         "mycloudnas.com",
         "mydatto.com",
+        "mydbserver.com",
         "mydobiss.com",
         "mydrobo.com",
         "myiphost.com",
@@ -2325,6 +2328,7 @@
         "uberspace.de",
         "virtual-user.de",
         "virtualuser.de",
+        "webspaceconfig.de",
         "xn--gnstigbestellen-zvb.de",
         "xn--gnstigliefern-wob.de"
     ],
@@ -2640,9 +2644,6 @@
     "gd": [
         "edu.gd",
         "gov.gd"
-    ],
-    "gdn": [
-        "cnpy.gdn"
     ],
     "ge": [
         "com.ge",
@@ -2989,9 +2990,12 @@
         "ilovecollege.info",
         "knowsitall.info",
         "mayfirst.info",
+        "mittwald.info",
+        "mittwaldserver.info",
         "no-ip.info",
         "nsupdate.info",
         "selfip.info",
+        "typo3server.info",
         "v-info.info",
         "webhop.info"
     ],
@@ -6808,6 +6812,7 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
+        "org.zw",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
@@ -8014,7 +8019,6 @@
         "hb.cldmail.ru",
         "hosting.myjino.ru",
         "int.ru",
-        "j.scaleforce.net",
         "kalmykia.ru",
         "kustanai.ru",
         "landing.myjino.ru",
@@ -8257,6 +8261,7 @@
         "heiyu.space",
         "hf.space",
         "myfast.space",
+        "project.space",
         "static.hf.space",
         "uber.space",
         "xs4all.space"
