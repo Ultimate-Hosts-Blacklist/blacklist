@@ -1165,7 +1165,6 @@
         "aivencloud.com",
         "aliases121.com",
         "alpha-myqnapcloud.com",
-        "alpha.bounty-full.com",
         "amplifyapp.com",
         "analytics-gateway.ap-northeast-1.amazonaws.com",
         "analytics-gateway.ap-northeast-2.amazonaws.com",
@@ -1247,13 +1246,11 @@
         "balena-devices.com",
         "barsycenter.com",
         "barsyonline.com",
-        "beta.bounty-full.com",
         "betainabox.com",
         "blogdns.com",
         "blogspot.com",
         "blogsyte.com",
         "bloxcms.com",
-        "bounty-full.com",
         "boutir.com",
         "bplaced.com",
         "br.com",
@@ -2644,6 +2641,9 @@
     "gd": [
         "edu.gd",
         "gov.gd"
+    ],
+    "gdn": [
+        "cnpy.gdn"
     ],
     "ge": [
         "com.ge",
@@ -6812,7 +6812,6 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
-        "org.zw",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
@@ -9164,7 +9163,6 @@
         "nic.za",
         "nis.za",
         "nom.za",
-        "org.za",
         "school.za",
         "tm.za",
         "web.za"
@@ -9194,6 +9192,7 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
+        "org.za",
         "org.zw"
     ],
     "рус": [
