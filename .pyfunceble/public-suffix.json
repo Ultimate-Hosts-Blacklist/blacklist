@@ -183,6 +183,7 @@
         "hosted.app",
         "id.replit.app",
         "loginline.app",
+        "medusajs.app",
         "messerli.app",
         "netfy.app",
         "netlify.app",
@@ -950,7 +951,6 @@
         "mil.cl"
     ],
     "cloud": [
-        "banzai.cloud",
         "ca.reclaim.cloud",
         "ch.trendhosting.cloud",
         "cockpit.fr-par.scw.cloud",
@@ -1249,7 +1249,6 @@
         "blogdns.com",
         "blogspot.com",
         "blogsyte.com",
-        "bloxcms.com",
         "boutir.com",
         "bplaced.com",
         "br.com",
@@ -1281,7 +1280,6 @@
         "dattolocal.com",
         "dattorelay.com",
         "dattoweb.com",
-        "ddns5.com",
         "ddnsfree.com",
         "ddnsgeek.com",
         "ddnsking.com",
@@ -2566,9 +2564,6 @@
         "co.events",
         "koobin.events"
     ],
-    "faith": [
-        "ybo.faith"
-    ],
     "farm": [
         "storj.farm"
     ],
@@ -3022,12 +3017,10 @@
         "2038.io",
         "ap.ngrok.io",
         "apigee.io",
-        "app.banzaicloud.io",
         "apps.lair.io",
         "au.ngrok.io",
         "azurecontainer.io",
         "b-data.io",
-        "backyards.banzaicloud.io",
         "barsy.io",
         "basicserver.io",
         "beagleboard.io",
@@ -6000,7 +5993,6 @@
         "edu.mw",
         "gov.mw",
         "int.mw",
-        "museum.mw",
         "net.mw",
         "org.mw"
     ],
@@ -6034,23 +6026,12 @@
         "org.mz"
     ],
     "na": [
-        "ca.na",
-        "cc.na",
+        "alt.na",
         "co.na",
         "com.na",
-        "dr.na",
-        "in.na",
-        "info.na",
-        "mobi.na",
-        "mx.na",
-        "name.na",
-        "or.na",
-        "org.na",
-        "pro.na",
-        "school.na",
-        "tv.na",
-        "us.na",
-        "ws.na"
+        "gov.na",
+        "net.na",
+        "org.na"
     ],
     "name": [
         "forgot.her.name",
@@ -6097,7 +6078,6 @@
         "azurewebsites.net",
         "b.ssl.fastly.net",
         "barsy.net",
-        "beta.tailscale.net",
         "blackbaudcdn.net",
         "blob.core.windows.net",
         "blogdns.net",
@@ -7343,7 +7323,6 @@
         "pro.om"
     ],
     "one": [
-        "homelink.one",
         "kin.one",
         "onred.one",
         "service.one",
@@ -7561,9 +7540,6 @@
         "prvcy.page",
         "rocky.page",
         "translated.page"
-    ],
-    "party": [
-        "ybo.party"
     ],
     "pe": [
         "blogspot.pe",
@@ -7942,7 +7918,6 @@
         "co.pw",
         "ed.pw",
         "go.pw",
-        "ne.pw",
         "or.pw",
         "x443.pw"
     ],
@@ -7972,9 +7947,6 @@
         "can.re",
         "com.re",
         "nom.re"
-    ],
-    "review": [
-        "ybo.review"
     ],
     "rip": [
         "clan.rip"
@@ -8108,9 +8080,6 @@
         "gov.sc",
         "net.sc",
         "org.sc"
-    ],
-    "science": [
-        "ybo.science"
     ],
     "scot": [
         "gov.scot",
@@ -8512,9 +8481,6 @@
         "tsk.tr",
         "tv.tr",
         "web.tr"
-    ],
-    "trade": [
-        "ybo.trade"
     ],
     "tt": [
         "aero.tt",
