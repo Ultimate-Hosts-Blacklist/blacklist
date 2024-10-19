@@ -159,9 +159,12 @@
     "ao": [
         "co.ao",
         "ed.ao",
+        "edu.ao",
+        "gov.ao",
         "gv.ao",
         "it.ao",
         "og.ao",
+        "org.ao",
         "pb.ao"
     ],
     "app": [
@@ -7963,7 +7966,6 @@
         "nt.ro",
         "org.ro",
         "rec.ro",
-        "routingthecloud.com",
         "shop.ro",
         "store.ro",
         "tm.ro",
@@ -8250,6 +8252,7 @@
     ],
     "ss": [
         "biz.ss",
+        "co.ss",
         "com.ss",
         "edu.ss",
         "gov.ss",
