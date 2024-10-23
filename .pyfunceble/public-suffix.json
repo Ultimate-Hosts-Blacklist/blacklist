@@ -511,6 +511,7 @@
     ],
     "biz": [
         "activetrail.biz",
+        "cloud-ip.biz",
         "cloudns.biz",
         "dscloud.biz",
         "dyndns.biz",
@@ -7425,6 +7426,7 @@
         "in-vpn.org",
         "in.eu.org",
         "int.eu.org",
+        "ip-dynamic.org",
         "is-a-bruinsfan.org",
         "is-a-candidate.org",
         "is-a-celticsfan.org",
@@ -8041,7 +8043,6 @@
         "database.run",
         "development.run",
         "express.val.run",
-        "hs.run",
         "migration.run",
         "onporter.run",
         "ravendb.run",
@@ -9166,7 +9167,6 @@
     ],
     "zone": [
         "cloud66.zone",
-        "hs.zone",
         "lima.zone",
         "stackit.zone",
         "triton.zone"
