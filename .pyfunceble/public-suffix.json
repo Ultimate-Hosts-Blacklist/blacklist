@@ -7337,9 +7337,7 @@
     ],
     "one": [
         "kin.one",
-        "onred.one",
-        "service.one",
-        "staging.onred.one"
+        "service.one"
     ],
     "ong": [
         "obl.ong"
@@ -7890,7 +7888,6 @@
         "avocat.pro",
         "bar.pro",
         "barsy.pro",
-        "bci.dnstrace.pro",
         "cloudns.pro",
         "cpa.pro",
         "eng.pro",
