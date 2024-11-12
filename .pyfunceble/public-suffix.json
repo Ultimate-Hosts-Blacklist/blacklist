@@ -847,6 +847,7 @@
         "of.by"
     ],
     "bz": [
+        "co.bz",
         "com.bz",
         "edu.bz",
         "gov.bz",
@@ -9108,9 +9109,6 @@
     ],
     "wiki": [
         "framer.wiki"
-    ],
-    "work": [
-        "corpnet.work"
     ],
     "ws": [
         "advisor.ws",
