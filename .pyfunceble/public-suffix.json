@@ -13,9 +13,6 @@
     "academy": [
         "official.academy"
     ],
-    "ad": [
-        "nom.ad"
-    ],
     "ae": [
         "ac.ae",
         "blogspot.ae",
@@ -285,7 +282,6 @@
         "edu.au",
         "gov.au",
         "id.au",
-        "info.au",
         "mel.cloudlets.com.au",
         "myspreadshop.com.au",
         "net.au",
@@ -1119,19 +1115,15 @@
         "网络.cn"
     ],
     "co": [
-        "arts.co",
         "blogspot.com.co",
         "carrd.co",
         "com.co",
         "crd.co",
         "edu.co",
         "firewalledreplit.co",
-        "firm.co",
         "gov.co",
         "id.firewalledreplit.co",
         "id.repl.co",
-        "info.co",
-        "int.co",
         "leadpages.co",
         "lpages.co",
         "mil.co",
@@ -1141,10 +1133,8 @@
         "nom.co",
         "org.co",
         "otap.co",
-        "rec.co",
         "repl.co",
         "supabase.co",
-        "web.co",
         "xmit.co"
     ],
     "codes": [
@@ -1249,7 +1239,6 @@
         "balena-devices.com",
         "barsycenter.com",
         "barsyonline.com",
-        "betainabox.com",
         "blogdns.com",
         "blogspot.com",
         "blogsyte.com",
@@ -3137,13 +3126,7 @@
         "ایران.ir"
     ],
     "is": [
-        "blogspot.is",
-        "com.is",
-        "edu.is",
-        "gov.is",
-        "int.is",
-        "net.is",
-        "org.is"
+        "blogspot.is"
     ],
     "it": [
         "123homepage.it",
@@ -3594,14 +3577,20 @@
         "jm"
     ],
     "jo": [
+        "agri.jo",
+        "ai.jo",
         "com.jo",
         "edu.jo",
+        "eng.jo",
+        "fm.jo",
         "gov.jo",
         "mil.jo",
-        "name.jo",
         "net.jo",
         "org.jo",
-        "sch.jo"
+        "per.jo",
+        "phd.jo",
+        "sch.jo",
+        "tv.jo"
     ],
     "jp": [
         "0am.jp",
@@ -7547,6 +7536,7 @@
     "page": [
         "aem.page",
         "codeberg.page",
+        "heyflow.page",
         "hlx.page",
         "hlx3.page",
         "pdns.page",
@@ -7964,8 +7954,7 @@
         "asso.re",
         "blogspot.re",
         "can.re",
-        "com.re",
-        "nom.re"
+        "com.re"
     ],
     "rip": [
         "clan.rip"
@@ -8171,8 +8160,7 @@
         "enscaled.sg",
         "gov.sg",
         "net.sg",
-        "org.sg",
-        "per.sg"
+        "org.sg"
     ],
     "sh": [
         "com.sh",
@@ -8208,6 +8196,7 @@
         "fastvps.site",
         "fnwk.site",
         "folionetwork.site",
+        "heyflow.site",
         "jele.site",
         "jouwweb.site",
         "lelux.site",
@@ -8502,23 +8491,17 @@
         "web.tr"
     ],
     "tt": [
-        "aero.tt",
         "biz.tt",
         "co.tt",
         "com.tt",
-        "coop.tt",
         "edu.tt",
         "gov.tt",
         "info.tt",
-        "int.tt",
-        "jobs.tt",
-        "mobi.tt",
-        "museum.tt",
+        "mil.tt",
         "name.tt",
         "net.tt",
         "org.tt",
-        "pro.tt",
-        "travel.tt"
+        "pro.tt"
     ],
     "tv": [
         "better-than.tv",
