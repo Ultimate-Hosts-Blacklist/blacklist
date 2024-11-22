@@ -2435,6 +2435,7 @@
         "store.dk"
     ],
     "dm": [
+        "co.dm",
         "com.dm",
         "edu.dm",
         "gov.dm",
@@ -5894,8 +5895,7 @@
         "mil.mg",
         "nom.mg",
         "org.mg",
-        "prd.mg",
-        "tm.mg"
+        "prd.mg"
     ],
     "mk": [
         "blogspot.mk",
