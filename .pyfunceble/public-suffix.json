@@ -2304,6 +2304,7 @@
         "in-dsl.de",
         "in-vpn.de",
         "internet-dns.de",
+        "io.noc.ruhr-uni-bochum.de",
         "iservschule.de",
         "isteingeek.de",
         "istmein.de",
@@ -2324,6 +2325,8 @@
         "myspreadshop.de",
         "pages-research.it.hs-heilbronn.de",
         "pages.it.hs-heilbronn.de",
+        "rub.de",
+        "ruhr-uni-bochum.de",
         "schulplattform.de",
         "schulserver.de",
         "spdns.de",
@@ -2505,16 +2508,21 @@
         "riik.ee"
     ],
     "eg": [
+        "ac.eg",
         "blogspot.com.eg",
         "com.eg",
         "edu.eg",
         "eun.eg",
         "gov.eg",
+        "info.eg",
+        "me.eg",
         "mil.eg",
         "name.eg",
         "net.eg",
         "org.eg",
-        "sci.eg"
+        "sci.eg",
+        "sport.eg",
+        "tv.eg"
     ],
     "email": [
         "on.crisp.email",
@@ -8528,13 +8536,7 @@
         "mymailer.com.tw",
         "net.tw",
         "org.tw",
-        "url.tw",
-        "xn--czrw28b.tw",
-        "xn--uc0atv.tw",
-        "xn--zf0ao64a.tw",
-        "商業.tw",
-        "組織.tw",
-        "網路.tw"
+        "url.tw"
     ],
     "tz": [
         "ac.tz",
