@@ -166,6 +166,7 @@
     ],
     "app": [
         "adaptable.app",
+        "aiven.app",
         "beget.app",
         "bookonline.app",
         "clerk.app",
@@ -194,7 +195,6 @@
         "nyat.app",
         "on-fleek.app",
         "ondigitalocean.app",
-        "platform0.app",
         "preview.csb.app",
         "privatelink.snowflake.app",
         "relay.evervault.app",
@@ -1547,7 +1547,6 @@
         "hatenadiary.com",
         "health-carereform.com",
         "herokuapp.com",
-        "herokussl.com",
         "hk.com",
         "hobby-site.com",
         "homelinux.com",
@@ -2385,6 +2384,7 @@
         "loginline.dev",
         "mediatech.dev",
         "modx.dev",
+        "myaddr.dev",
         "ngrok-free.dev",
         "ngrok.dev",
         "odo.replit.dev",
@@ -3074,6 +3074,7 @@
         "mock.pstmn.io",
         "moonscale.io",
         "musician.io",
+        "myaddr.io",
         "myrdbx.io",
         "net.io",
         "ngrok.io",
@@ -7933,12 +7934,8 @@
         "kin.pub"
     ],
     "pw": [
-        "belau.pw",
         "cloudns.pw",
-        "co.pw",
-        "ed.pw",
-        "go.pw",
-        "or.pw",
+        "gov.pw",
         "x443.pw"
     ],
     "py": [
@@ -8205,8 +8202,6 @@
         "convex.site",
         "cyon.site",
         "fastvps.site",
-        "fnwk.site",
-        "folionetwork.site",
         "heyflow.site",
         "jele.site",
         "jouwweb.site",
@@ -8469,6 +8464,10 @@
     ],
     "today": [
         "prequalifyme.today"
+    ],
+    "tools": [
+        "dyn.addr.tools",
+        "myaddr.tools"
     ],
     "top": [
         "now-dns.top",
@@ -8774,7 +8773,6 @@
         "drud.us",
         "dst.mi.us",
         "eaton.mi.us",
-        "fed.us",
         "fl.us",
         "freeddns.us",
         "ga.us",
@@ -8840,7 +8838,6 @@
         "k12.wa.us",
         "k12.wi.us",
         "k12.wy.us",
-        "kids.us",
         "ks.us",
         "ky.us",
         "la.us",
@@ -9085,9 +9082,6 @@
         "vinhlong.vn",
         "vinhphuc.vn",
         "yenbai.vn"
-    ],
-    "vodka": [
-        "aaa.vodka"
     ],
     "vu": [
         "com.vu",
