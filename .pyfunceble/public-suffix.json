@@ -15,7 +15,6 @@
     ],
     "ae": [
         "ac.ae",
-        "blogspot.ae",
         "co.ae",
         "gov.ae",
         "mil.ae",
@@ -136,7 +135,6 @@
         "uwu.ai"
     ],
     "al": [
-        "blogspot.al",
         "com.al",
         "edu.al",
         "gov.al",
@@ -145,7 +143,6 @@
         "org.al"
     ],
     "am": [
-        "blogspot.am",
         "co.am",
         "com.am",
         "commune.am",
@@ -215,7 +212,6 @@
     ],
     "ar": [
         "bet.ar",
-        "blogspot.com.ar",
         "com.ar",
         "coop.ar",
         "edu.ar",
@@ -254,7 +250,6 @@
         "4lima.at",
         "ac.at",
         "biz.at",
-        "blogspot.co.at",
         "co.at",
         "ex.futurecms.at",
         "ex.ortsinfo.at",
@@ -276,7 +271,6 @@
         "act.au",
         "act.edu.au",
         "asn.au",
-        "blogspot.com.au",
         "catholic.edu.au",
         "com.au",
         "conf.au",
@@ -398,6 +392,7 @@
     ],
     "az": [
         "biz.az",
+        "co.az",
         "com.az",
         "edu.az",
         "gov.az",
@@ -411,7 +406,6 @@
         "pro.az"
     ],
     "ba": [
-        "blogspot.ba",
         "com.ba",
         "edu.ba",
         "gov.ba",
@@ -442,7 +436,6 @@
     "be": [
         "123website.be",
         "ac.be",
-        "blogspot.be",
         "cloud.interhostsolutions.be",
         "cloudns.be",
         "ezproxy.kuleuven.be",
@@ -467,7 +460,6 @@
         "a.bg",
         "b.bg",
         "barsy.bg",
-        "blogspot.bg",
         "c.bg",
         "d.bg",
         "e.bg",
@@ -531,7 +523,6 @@
         "architectes.bj",
         "assur.bj",
         "avocats.bj",
-        "blogspot.bj",
         "co.bj",
         "com.bj",
         "eco.bj",
@@ -638,7 +629,6 @@
         "bib.br",
         "bio.br",
         "blog.br",
-        "blogspot.com.br",
         "bmd.br",
         "boavista.br",
         "bsb.br",
@@ -832,11 +822,13 @@
         "co.business"
     ],
     "bw": [
+        "ac.bw",
         "co.bw",
+        "gov.bw",
+        "net.bw",
         "org.bw"
     ],
     "by": [
-        "blogspot.com.by",
         "com.by",
         "gov.by",
         "mediatech.by",
@@ -859,7 +851,6 @@
         "awdev.ca",
         "barsy.ca",
         "bc.ca",
-        "blogspot.ca",
         "box.ca",
         "co.ca",
         "gc.ca",
@@ -899,9 +890,6 @@
     "cd": [
         "gov.cd"
     ],
-    "cf": [
-        "blogspot.cf"
-    ],
     "ch": [
         "123website.ch",
         "12hp.ch",
@@ -909,7 +897,6 @@
         "4lima.ch",
         "alp1.ae.flow.ch",
         "appengine.flow.ch",
-        "blogspot.ch",
         "cloudns.ch",
         "cust.cloudscale.ch",
         "dnsking.ch",
@@ -944,7 +931,6 @@
         "ck"
     ],
     "cl": [
-        "blogspot.cl",
         "cloudns.cl",
         "co.cl",
         "gob.cl",
@@ -1116,7 +1102,6 @@
         "网络.cn"
     ],
     "co": [
-        "blogspot.com.co",
         "carrd.co",
         "com.co",
         "crd.co",
@@ -2207,7 +2192,6 @@
         "org.cu"
     ],
     "cv": [
-        "blogspot.cv",
         "com.cv",
         "edu.cv",
         "id.cv",
@@ -2239,7 +2223,6 @@
     "cy": [
         "ac.cy",
         "biz.cy",
-        "blogspot.com.cy",
         "com.cy",
         "ekloges.cy",
         "gov.cy",
@@ -2253,7 +2236,6 @@
         "tm.cy"
     ],
     "cz": [
-        "blogspot.cz",
         "cloud.metacentrum.cz",
         "co.cz",
         "custom.metacentrum.cz",
@@ -2269,7 +2251,6 @@
         "2ix.de",
         "4lima.de",
         "barsy.de",
-        "blogspot.de",
         "bplaced.de",
         "com.de",
         "community-pro.de",
@@ -2435,7 +2416,6 @@
     "dk": [
         "123hjemmeside.dk",
         "biz.dk",
-        "blogspot.dk",
         "co.dk",
         "firm.dk",
         "myspreadshop.dk",
@@ -2498,7 +2478,6 @@
     ],
     "ee": [
         "aip.ee",
-        "blogspot.com.ee",
         "com.ee",
         "edu.ee",
         "fie.ee",
@@ -2511,7 +2490,6 @@
     ],
     "eg": [
         "ac.eg",
-        "blogspot.com.eg",
         "com.eg",
         "edu.eg",
         "eun.eg",
@@ -2536,7 +2514,6 @@
     ],
     "es": [
         "123miweb.es",
-        "blogspot.com.es",
         "com.es",
         "edu.es",
         "gob.es",
@@ -2579,7 +2556,6 @@
     "fi": [
         "123kotisivu.fi",
         "aland.fi",
-        "blogspot.fi",
         "demo.datacenter.fi",
         "dy.fi",
         "fi.cloudplatform.fi",
@@ -2622,7 +2598,6 @@
         "asso.fr",
         "avocat.fr",
         "avoues.fr",
-        "blogspot.fr",
         "cci.fr",
         "chambagri.fr",
         "chirurgiens-dentistes-en-france.fr",
@@ -2729,7 +2704,6 @@
     ],
     "gr": [
         "barsy.gr",
-        "blogspot.gr",
         "com.gr",
         "edu.gr",
         "gov.gr",
@@ -2771,7 +2745,6 @@
         "hra.health"
     ],
     "hk": [
-        "blogspot.hk",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -2837,7 +2810,6 @@
         "opencraft.hosting"
     ],
     "hr": [
-        "blogspot.hr",
         "com.hr",
         "free.hr",
         "from.hr",
@@ -2868,7 +2840,6 @@
     "hu": [
         "2000.hu",
         "agrar.hu",
-        "blogspot.hu",
         "bolt.hu",
         "casino.hu",
         "city.hu",
@@ -2902,7 +2873,6 @@
     "id": [
         "ac.id",
         "biz.id",
-        "blogspot.co.id",
         "co.id",
         "desa.id",
         "go.id",
@@ -2916,13 +2886,11 @@
         "web.id"
     ],
     "ie": [
-        "blogspot.ie",
         "gov.ie",
         "myspreadshop.ie"
     ],
     "il": [
         "ac.il",
-        "blogspot.co.il",
         "co.il",
         "gov.il",
         "idf.il",
@@ -2954,7 +2922,6 @@
         "barsy.in",
         "bihar.in",
         "biz.in",
-        "blogspot.in",
         "business.in",
         "ca.in",
         "cloudns.in",
@@ -3098,7 +3065,6 @@
         "sa.ngrok.io",
         "sandcats.io",
         "sekd1.beebyteapp.io",
-        "shiftedit.io",
         "shw.io",
         "site.rb-hosting.io",
         "spacekit.io",
@@ -3138,9 +3104,6 @@
         "xn--mgba3a4fra.ir",
         "ايران.ir",
         "ایران.ir"
-    ],
-    "is": [
-        "blogspot.is"
     ],
     "it": [
         "123homepage.it",
@@ -3195,7 +3158,6 @@
         "bi.it",
         "biella.it",
         "bl.it",
-        "blogspot.it",
         "bn.it",
         "bo.it",
         "bologna.it",
@@ -3719,7 +3681,6 @@
         "biratori.hokkaido.jp",
         "bitter.jp",
         "bizen.okayama.jp",
-        "blogspot.jp",
         "blush.jp",
         "bona.jp",
         "boo.jp",
@@ -5601,7 +5562,6 @@
     ],
     "ke": [
         "ac.ke",
-        "blogspot.co.ke",
         "co.ke",
         "go.ke",
         "info.ke",
@@ -5667,7 +5627,6 @@
     ],
     "kr": [
         "ac.kr",
-        "blogspot.kr",
         "busan.kr",
         "chungbuk.kr",
         "chungnam.kr",
@@ -5753,7 +5712,6 @@
         "oy.lc"
     ],
     "li": [
-        "blogspot.li",
         "caa.li"
     ],
     "link": [
@@ -5807,12 +5765,10 @@
         "sc.ls"
     ],
     "lt": [
-        "blogspot.lt",
         "gov.lt"
     ],
     "lu": [
-        "123website.lu",
-        "blogspot.lu"
+        "123website.lu"
     ],
     "lv": [
         "asn.lv",
@@ -5852,7 +5808,6 @@
         "tm.mc"
     ],
     "md": [
-        "blogspot.md",
         "ir.md"
     ],
     "me": [
@@ -5889,8 +5844,7 @@
         "synology.me",
         "tcp4.me",
         "vp4.me",
-        "webhop.me",
-        "yombo.me"
+        "webhop.me"
     ],
     "media": [
         "framer.media"
@@ -5910,7 +5864,6 @@
         "prd.mg"
     ],
     "mk": [
-        "blogspot.mk",
         "com.mk",
         "edu.mk",
         "gov.mk",
@@ -5967,7 +5920,6 @@
         "org.ms"
     ],
     "mt": [
-        "blogspot.com.mt",
         "com.mt",
         "edu.mt",
         "net.mt",
@@ -6011,7 +5963,6 @@
         "org.mw"
     ],
     "mx": [
-        "blogspot.mx",
         "com.mx",
         "edu.mx",
         "gob.mx",
@@ -6020,7 +5971,6 @@
     ],
     "my": [
         "biz.my",
-        "blogspot.my",
         "com.my",
         "edu.my",
         "gov.my",
@@ -6305,7 +6255,6 @@
     ],
     "ng": [
         "biz.ng",
-        "blogspot.com.ng",
         "co.biz.ng",
         "col.ng",
         "com.ng",
@@ -6346,7 +6295,6 @@
     ],
     "nl": [
         "123website.nl",
-        "blogspot.nl",
         "cistron.nl",
         "co.nl",
         "demon.nl",
@@ -6429,7 +6377,6 @@
         "bjarkøy.no",
         "bjerkreim.no",
         "bjugn.no",
-        "blogspot.no",
         "bo.nordland.no",
         "bo.telemark.no",
         "bodo.no",
@@ -7308,7 +7255,6 @@
     ],
     "nz": [
         "ac.nz",
-        "blogspot.co.nz",
         "cloudns.nz",
         "co.nz",
         "cri.nz",
@@ -7558,7 +7504,6 @@
         "translated.page"
     ],
     "pe": [
-        "blogspot.pe",
         "com.pe",
         "edu.pe",
         "gob.pe",
@@ -7918,7 +7863,6 @@
     ],
     "pt": [
         "123paginaweb.pt",
-        "blogspot.pt",
         "com.pt",
         "edu.pt",
         "gov.pt",
@@ -7948,7 +7892,6 @@
         "org.py"
     ],
     "qa": [
-        "blogspot.qa",
         "com.qa",
         "edu.qa",
         "gov.qa",
@@ -7960,7 +7903,6 @@
     ],
     "re": [
         "asso.re",
-        "blogspot.re",
         "can.re",
         "com.re",
         "netlib.re"
@@ -7971,7 +7913,6 @@
     "ro": [
         "arts.ro",
         "barsy.ro",
-        "blogspot.ro",
         "co.ro",
         "com.ro",
         "firm.ro",
@@ -7994,7 +7935,6 @@
     "rs": [
         "ac.rs",
         "barsy.rs",
-        "blogspot.rs",
         "co.rs",
         "edu.rs",
         "gov.rs",
@@ -8009,7 +7949,6 @@
         "adygeya.ru",
         "bashkiria.ru",
         "bir.ru",
-        "blogspot.ru",
         "cbg.ru",
         "com.ru",
         "dagestan.ru",
@@ -8116,7 +8055,6 @@
         "ac.se",
         "b.se",
         "bd.se",
-        "blogspot.se",
         "brand.se",
         "c.se",
         "com.se",
@@ -8162,7 +8100,6 @@
         "loginline.services"
     ],
     "sg": [
-        "blogspot.sg",
         "com.sg",
         "edu.sg",
         "enscaled.sg",
@@ -8190,7 +8127,6 @@
         "shopware.shop"
     ],
     "si": [
-        "blogspot.si",
         "f5.si",
         "gitapp.si",
         "gitpage.si"
@@ -8205,7 +8141,6 @@
         "heyflow.site",
         "jele.site",
         "jouwweb.site",
-        "lelux.site",
         "loginline.site",
         "madethis.site",
         "my.canva.site",
@@ -8218,9 +8153,6 @@
         "tst.site",
         "wpsquared.site"
     ],
-    "sk": [
-        "blogspot.sk"
-    ],
     "sl": [
         "com.sl",
         "edu.sl",
@@ -8230,7 +8162,6 @@
     ],
     "sn": [
         "art.sn",
-        "blogspot.sn",
         "com.sn",
         "edu.sn",
         "gouv.sn",
@@ -8376,9 +8307,6 @@
         "co.sz",
         "org.sz"
     ],
-    "td": [
-        "blogspot.td"
-    ],
     "team": [
         "discourse.team",
         "jelastic.team"
@@ -8479,7 +8407,6 @@
         "bbs.tr",
         "bel.tr",
         "biz.tr",
-        "blogspot.com.tr",
         "com.tr",
         "dr.tr",
         "edu.tr",
@@ -8522,7 +8449,6 @@
         "worse-than.tv"
     ],
     "tw": [
-        "blogspot.tw",
         "club.tw",
         "com.tw",
         "ebiz.tw",
@@ -8643,7 +8569,6 @@
     ],
     "ug": [
         "ac.ug",
-        "blogspot.ug",
         "co.ug",
         "com.ug",
         "go.ug",
@@ -8660,7 +8585,6 @@
         "barsy.co.uk",
         "barsy.uk",
         "barsyonline.co.uk",
-        "blogspot.co.uk",
         "campaign.gov.uk",
         "co.uk",
         "conn.uk",
@@ -8947,7 +8871,6 @@
         "wy.us"
     ],
     "uy": [
-        "blogspot.com.uy",
         "com.uy",
         "edu.uy",
         "gub.uy",
@@ -9017,7 +8940,6 @@
         "binhphuoc.vn",
         "binhthuan.vn",
         "biz.vn",
-        "blogspot.vn",
         "camau.vn",
         "cantho.vn",
         "caobang.vn",
@@ -9128,7 +9050,6 @@
         "ac.za",
         "agric.za",
         "alt.za",
-        "blogspot.co.za",
         "co.za",
         "edu.za",
         "gov.za",
