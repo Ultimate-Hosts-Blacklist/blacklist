@@ -388,7 +388,8 @@
         "studio.us-gov-east-1.sagemaker.aws",
         "studio.us-gov-west-1.sagemaker.aws",
         "studio.us-west-1.sagemaker.aws",
-        "studio.us-west-2.sagemaker.aws"
+        "studio.us-west-2.sagemaker.aws",
+        "to.leg.br"
     ],
     "az": [
         "biz.az",

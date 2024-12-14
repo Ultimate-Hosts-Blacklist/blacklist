@@ -7,24 +7,26 @@
         "NICENIC INTERNATIONAL GROUP CO., LIMITED": 2,
         "NameCheap, Inc.": 6,
         "Namecheap": 2,
+        "REGRU-RU": 2,
         "REGRU-SU": 2,
         "Registrar of Domain Names REG.RU LLC": 2,
         "Registrar of Domain Names REG.RU, LLC": 2,
         "Squarespace Domains II LLC": 2,
-        "total": 28
+        "total": 30
     },
     "percentage": {
-        "CloudFlare, Inc.": 14.285714285714286,
-        "Go Daddy, LLC": 7.142857142857143,
-        "Hexonet Services Inc / 1API": 7.142857142857143,
-        "IONOS SE": 7.142857142857143,
-        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 7.142857142857143,
-        "NameCheap, Inc.": 21.428571428571427,
-        "Namecheap": 7.142857142857143,
-        "REGRU-SU": 7.142857142857143,
-        "Registrar of Domain Names REG.RU LLC": 7.142857142857143,
-        "Registrar of Domain Names REG.RU, LLC": 7.142857142857143,
-        "Squarespace Domains II LLC": 7.142857142857143,
-        "total": 99.99999999999999
+        "CloudFlare, Inc.": 13.333333333333334,
+        "Go Daddy, LLC": 6.666666666666667,
+        "Hexonet Services Inc / 1API": 6.666666666666667,
+        "IONOS SE": 6.666666666666667,
+        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 6.666666666666667,
+        "NameCheap, Inc.": 20.0,
+        "Namecheap": 6.666666666666667,
+        "REGRU-RU": 6.666666666666667,
+        "REGRU-SU": 6.666666666666667,
+        "Registrar of Domain Names REG.RU LLC": 6.666666666666667,
+        "Registrar of Domain Names REG.RU, LLC": 6.666666666666667,
+        "Squarespace Domains II LLC": 6.666666666666667,
+        "total": 100.00000000000003
     }
 }
