@@ -388,8 +388,7 @@
         "studio.us-gov-east-1.sagemaker.aws",
         "studio.us-gov-west-1.sagemaker.aws",
         "studio.us-west-1.sagemaker.aws",
-        "studio.us-west-2.sagemaker.aws",
-        "to.leg.br"
+        "studio.us-west-2.sagemaker.aws"
     ],
     "az": [
         "biz.az",
@@ -1251,7 +1250,6 @@
         "co.com",
         "codespot.com",
         "compute-1.amazonaws.com",
-        "compute.amazonaws.com",
         "cprapid.com",
         "cpserver.com",
         "customer-oci.com",
@@ -2754,7 +2752,6 @@
         "ltd.hk",
         "net.hk",
         "org.hk",
-        "secaas.hk",
         "xn--55qx5d.hk",
         "xn--ciqpn.hk",
         "xn--gmq050i.hk",
@@ -7249,6 +7246,7 @@
         "org.nr"
     ],
     "nu": [
+        "compute.amazonaws.com",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
