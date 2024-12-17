@@ -1114,7 +1114,6 @@
         "lpages.co",
         "mil.co",
         "mypi.co",
-        "n4t.co",
         "net.co",
         "nom.co",
         "org.co",
@@ -1128,7 +1127,6 @@
     ],
     "com": [
         "001.test.code-builder-stg.platform.salesforce.com",
-        "001www.com",
         "0emm.com",
         "180r.com",
         "1kapp.com",
@@ -1250,6 +1248,7 @@
         "co.com",
         "codespot.com",
         "compute-1.amazonaws.com",
+        "compute.amazonaws.com",
         "cprapid.com",
         "cpserver.com",
         "customer-oci.com",
@@ -5912,7 +5911,6 @@
         "com.ms",
         "edu.ms",
         "gov.ms",
-        "lab.ms",
         "minisite.ms",
         "net.ms",
         "org.ms"
@@ -7246,7 +7244,6 @@
         "org.nr"
     ],
     "nu": [
-        "compute.amazonaws.com",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
@@ -8397,7 +8394,6 @@
         "myaddr.tools"
     ],
     "top": [
-        "now-dns.top",
         "ntdll.top",
         "wadl.top"
     ],
