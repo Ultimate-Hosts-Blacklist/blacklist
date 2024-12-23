@@ -6363,7 +6363,6 @@
         "beiarn.no",
         "berg.no",
         "bergen.no",
-        "berlevag.no",
         "berlevåg.no",
         "bievat.no",
         "bievát.no",
@@ -7235,6 +7234,7 @@
         "np"
     ],
     "nr": [
+        "berlevag.no",
         "biz.nr",
         "com.nr",
         "edu.nr",
