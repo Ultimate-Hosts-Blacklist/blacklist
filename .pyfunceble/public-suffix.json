@@ -166,6 +166,7 @@
         "aiven.app",
         "beget.app",
         "bookonline.app",
+        "botdash.app",
         "clerk.app",
         "clerkstage.app",
         "csb.app",
@@ -1680,7 +1681,6 @@
         "paywhirl.com",
         "pgfog.com",
         "pixolino.com",
-        "platter-app.com",
         "playstation-cloud.com",
         "pleskns.com",
         "point2this.com",
@@ -2334,8 +2334,8 @@
         "archer.replit.dev",
         "barsy.dev",
         "bones.replit.dev",
+        "botdash.dev",
         "canary.replit.dev",
-        "curv.dev",
         "d.crm.dev",
         "deno-staging.dev",
         "deno.dev",
@@ -2648,6 +2648,7 @@
         "school.ge"
     ],
     "gg": [
+        "botdash.gg",
         "co.gg",
         "daemon.panel.gg",
         "kaas.gg",
@@ -2878,7 +2879,6 @@
         "net.id",
         "or.id",
         "ponpes.id",
-        "rss.my.id",
         "sch.id",
         "web.id"
     ],
@@ -3013,7 +3013,6 @@
         "dedyn.io",
         "definima.io",
         "devices.resinstaging.io",
-        "drud.io",
         "dyndns.dappnode.io",
         "editorx.io",
         "edu.io",
@@ -3064,7 +3063,6 @@
         "sekd1.beebyteapp.io",
         "shw.io",
         "site.rb-hosting.io",
-        "spacekit.io",
         "stage.nodeart.io",
         "stolos.io",
         "sys.qcx.io",
@@ -6042,6 +6040,7 @@
         "blob.core.windows.net",
         "blogdns.net",
         "boomla.net",
+        "botdash.net",
         "bounceme.net",
         "bplaced.net",
         "broke-it.net",
@@ -6363,6 +6362,7 @@
         "beiarn.no",
         "berg.no",
         "bergen.no",
+        "berlevag.no",
         "berlevåg.no",
         "bievat.no",
         "bievát.no",
@@ -7234,7 +7234,6 @@
         "np"
     ],
     "nr": [
-        "berlevag.no",
         "biz.nr",
         "com.nr",
         "edu.nr",
@@ -7546,7 +7545,6 @@
         "gob.pk",
         "gog.pk",
         "gok.pk",
-        "gon.pk",
         "gop.pk",
         "gos.pk",
         "gov.pk",
@@ -8104,6 +8102,7 @@
         "org.sg"
     ],
     "sh": [
+        "botda.sh",
         "com.sh",
         "ent.platform.sh",
         "eu.platform.sh",
@@ -8173,9 +8172,6 @@
         "net.so",
         "org.so",
         "surveys.so"
-    ],
-    "solutions": [
-        "diher.solutions"
     ],
     "space": [
         "app-ionos.space",
@@ -8689,7 +8685,6 @@
         "dc.us",
         "de.us",
         "dni.us",
-        "drud.us",
         "dst.mi.us",
         "eaton.mi.us",
         "fl.us",
@@ -9028,6 +9023,7 @@
         "org.ws"
     ],
     "xyz": [
+        "botdash.xyz",
         "telebit.xyz"
     ],
     "ye": [
