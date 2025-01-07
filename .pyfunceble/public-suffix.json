@@ -919,7 +919,6 @@
         "com.ci",
         "ed.ci",
         "edu.ci",
-        "fin.ci",
         "go.ci",
         "gouv.ci",
         "int.ci",
@@ -2809,7 +2808,6 @@
     ],
     "hr": [
         "com.hr",
-        "free.hr",
         "from.hr",
         "iz.hr",
         "name.hr",
@@ -5706,9 +5704,6 @@
         "org.lc",
         "oy.lc"
     ],
-    "li": [
-        "caa.li"
-    ],
     "link": [
         "cyon.link",
         "dweb.link",
@@ -7935,8 +7930,7 @@
         "in.rs",
         "org.rs",
         "ox.rs",
-        "shop.brendly.rs",
-        "ua.rs"
+        "shop.brendly.rs"
     ],
     "ru": [
         "ac.ru",
@@ -8052,7 +8046,6 @@
         "brand.se",
         "c.se",
         "com.se",
-        "conf.se",
         "d.se",
         "e.se",
         "f.se",
