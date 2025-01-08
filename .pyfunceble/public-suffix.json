@@ -2384,6 +2384,8 @@
         "staging.replit.dev",
         "stg.dev",
         "stgstage.dev",
+        "sub.psl.hrsn.dev",
+        "sub.wc.psl.hrsn.dev",
         "sulu.replit.dev",
         "tarpit.replit.dev",
         "teams.replit.dev",
@@ -2394,6 +2396,7 @@
         "wa.crm.dev",
         "wb.crm.dev",
         "wc.crm.dev",
+        "wc.psl.hrsn.dev",
         "wd.crm.dev",
         "we.crm.dev",
         "webhare.dev",
@@ -3001,6 +3004,7 @@
         "browsersafetymark.io",
         "cleverapps.io",
         "client.scrypted.io",
+        "cloudbeesusercontent.io",
         "co.io",
         "com.io",
         "cust.dev.thingdust.io",
@@ -6292,7 +6296,8 @@
         "hosting-cluster.nl",
         "khplay.nl",
         "myspreadshop.nl",
-        "transurl.nl"
+        "transurl.nl",
+        "xn--55qx5d.hk"
     ],
     "no": [
         "123hjemmeside.no",
@@ -7981,6 +7986,8 @@
         "database.run",
         "development.run",
         "express.val.run",
+        "iran.liara.run",
+        "liara.run",
         "migration.run",
         "onporter.run",
         "ravendb.run",
