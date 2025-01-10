@@ -374,6 +374,7 @@
         "studio.ap-southeast-3.sagemaker.aws",
         "studio.ca-central-1.sagemaker.aws",
         "studio.eu-central-1.sagemaker.aws",
+        "studio.eu-central-2.sagemaker.aws",
         "studio.eu-north-1.sagemaker.aws",
         "studio.eu-south-1.sagemaker.aws",
         "studio.eu-south-2.sagemaker.aws",
@@ -389,7 +390,16 @@
         "studio.us-gov-east-1.sagemaker.aws",
         "studio.us-gov-west-1.sagemaker.aws",
         "studio.us-west-1.sagemaker.aws",
-        "studio.us-west-2.sagemaker.aws"
+        "studio.us-west-2.sagemaker.aws",
+        "transfer-webapp.ap-northeast-1.on.aws",
+        "transfer-webapp.ap-southeast-1.on.aws",
+        "transfer-webapp.ap-southeast-2.on.aws",
+        "transfer-webapp.eu-central-1.on.aws",
+        "transfer-webapp.eu-north-1.on.aws",
+        "transfer-webapp.eu-west-1.on.aws",
+        "transfer-webapp.us-east-1.on.aws",
+        "transfer-webapp.us-east-2.on.aws",
+        "transfer-webapp.us-west-2.on.aws"
     ],
     "az": [
         "biz.az",
@@ -6296,8 +6306,7 @@
         "hosting-cluster.nl",
         "khplay.nl",
         "myspreadshop.nl",
-        "transurl.nl",
-        "xn--55qx5d.hk"
+        "transurl.nl"
     ],
     "no": [
         "123hjemmeside.no",
@@ -8497,7 +8506,6 @@
         "in.ua",
         "inf.ua",
         "ivano-frankivsk.ua",
-        "kh.ua",
         "kharkiv.ua",
         "kharkov.ua",
         "kherson.ua",
@@ -9080,6 +9088,7 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
+        "kh.ua",
         "mil.zw",
         "org.zw"
     ],
