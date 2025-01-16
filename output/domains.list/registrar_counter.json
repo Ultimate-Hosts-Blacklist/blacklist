@@ -1,8 +1,8 @@
 {
     "counter": {
+        "1API GmbH": 2,
         "CloudFlare, Inc.": 4,
         "Go Daddy, LLC": 2,
-        "Hexonet Services Inc / 1API": 2,
         "IONOS SE": 2,
         "NAMECHEAP": 2,
         "NICENIC INTERNATIONAL GROUP CO., LIMITED": 2,
@@ -17,9 +17,9 @@
         "total": 34
     },
     "percentage": {
+        "1API GmbH": 5.882352941176471,
         "CloudFlare, Inc.": 11.764705882352942,
         "Go Daddy, LLC": 5.882352941176471,
-        "Hexonet Services Inc / 1API": 5.882352941176471,
         "IONOS SE": 5.882352941176471,
         "NAMECHEAP": 5.882352941176471,
         "NICENIC INTERNATIONAL GROUP CO., LIMITED": 5.882352941176471,
