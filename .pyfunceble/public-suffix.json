@@ -3864,7 +3864,6 @@
         "gujo.gifu.jp",
         "gunma.jp",
         "gushikami.okinawa.jp",
-        "gyeonggi.kr",
         "gyokuto.kumamoto.jp",
         "habikino.osaka.jp",
         "haboro.hokkaido.jp",
@@ -5879,12 +5878,18 @@
         "org.mk"
     ],
     "ml": [
+        "ac.ml",
+        "art.ml",
+        "asso.ml",
         "com.ml",
         "edu.ml",
         "gouv.ml",
         "gov.ml",
+        "info.ml",
+        "inst.ml",
         "net.ml",
         "org.ml",
+        "pr.ml",
         "presse.ml"
     ],
     "mm": [
