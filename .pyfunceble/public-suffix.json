@@ -1148,6 +1148,7 @@
         "a2hosted.com",
         "adobeaemcloud.com",
         "af-south-1.airflow.amazonaws.com",
+        "af-south-1.elasticbeanstalk.com",
         "africa.com",
         "airkitapps-au.com",
         "airkitapps.com",
@@ -8412,7 +8413,6 @@
         "myaddr.tools"
     ],
     "top": [
-        "af-south-1.elasticbeanstalk.com",
         "ntdll.top",
         "wadl.top"
     ],
