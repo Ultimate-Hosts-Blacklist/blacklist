@@ -2,6 +2,7 @@
     "counter": {
         "1API GmbH": 2,
         "CloudFlare, Inc.": 4,
+        "Cloudflare, Inc.": 2,
         "Dynadot Inc": 2,
         "Go Daddy, LLC": 2,
         "IONOS SE": 2,
@@ -16,25 +17,26 @@
         "Registrar of Domain Names REG.RU, LLC": 2,
         "Squarespace Domains II LLC": 2,
         "TLD Registrar Solutions Ltd": 2,
-        "total": 38
+        "total": 40
     },
     "percentage": {
-        "1API GmbH": 5.2631578947368425,
-        "CloudFlare, Inc.": 10.526315789473685,
-        "Dynadot Inc": 5.2631578947368425,
-        "Go Daddy, LLC": 5.2631578947368425,
-        "IONOS SE": 5.2631578947368425,
-        "NAMECHEAP": 5.2631578947368425,
-        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 5.2631578947368425,
-        "NameCheap, Inc.": 15.789473684210526,
-        "Namecheap": 5.2631578947368425,
-        "Porkbun LLC": 5.2631578947368425,
-        "REGRU-RU": 5.2631578947368425,
-        "REGRU-SU": 5.2631578947368425,
-        "Registrar of Domain Names REG.RU LLC": 5.2631578947368425,
-        "Registrar of Domain Names REG.RU, LLC": 5.2631578947368425,
-        "Squarespace Domains II LLC": 5.2631578947368425,
-        "TLD Registrar Solutions Ltd": 5.2631578947368425,
-        "total": 100.00000000000006
+        "1API GmbH": 5.0,
+        "CloudFlare, Inc.": 10.0,
+        "Cloudflare, Inc.": 5.0,
+        "Dynadot Inc": 5.0,
+        "Go Daddy, LLC": 5.0,
+        "IONOS SE": 5.0,
+        "NAMECHEAP": 5.0,
+        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 5.0,
+        "NameCheap, Inc.": 15.0,
+        "Namecheap": 5.0,
+        "Porkbun LLC": 5.0,
+        "REGRU-RU": 5.0,
+        "REGRU-SU": 5.0,
+        "Registrar of Domain Names REG.RU LLC": 5.0,
+        "Registrar of Domain Names REG.RU, LLC": 5.0,
+        "Squarespace Domains II LLC": 5.0,
+        "TLD Registrar Solutions Ltd": 5.0,
+        "total": 100.0
     }
 }
