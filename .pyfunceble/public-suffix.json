@@ -8304,8 +8304,7 @@
         "vologda.su"
     ],
     "support": [
-        "barsy.support",
-        "from.tv"
+        "barsy.support"
     ],
     "sv": [
         "com.sv",
@@ -8468,6 +8467,7 @@
     "tv": [
         "better-than.tv",
         "dyndns.tv",
+        "from.tv",
         "on-the-web.tv",
         "sakura.tv",
         "worse-than.tv"
