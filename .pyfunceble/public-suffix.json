@@ -5651,11 +5651,13 @@
         "ac.kr",
         "ai.kr",
         "busan.kr",
+        "c01.kr",
         "chungbuk.kr",
         "chungnam.kr",
         "co.kr",
         "daegu.kr",
         "daejeon.kr",
+        "eliv-dns.kr",
         "es.kr",
         "gangwon.kr",
         "go.kr",
@@ -6920,6 +6922,7 @@
         "smøla.no",
         "snaase.no",
         "snasa.no",
+        "snillfjord.no",
         "snoasa.no",
         "snåase.no",
         "snåsa.no",
@@ -9067,8 +9070,7 @@
         "gov.ws",
         "mypets.ws",
         "net.ws",
-        "org.ws",
-        "snillfjord.no"
+        "org.ws"
     ],
     "xyz": [
         "botdash.xyz",
