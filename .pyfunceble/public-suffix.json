@@ -1284,6 +1284,7 @@
         "dev-builder.code.com",
         "dev-myqnapcloud.com",
         "dev.adobeaemcloud.com",
+        "devinapps.com",
         "digitaloceanspaces.com",
         "discordsays.com",
         "discordsez.com",
@@ -2051,6 +2052,7 @@
         "space-to-rent.com",
         "sphinx.mythic-beasts.com",
         "stackhero-network.com",
+        "staging.devinapps.com",
         "static.observableusercontent.com",
         "stg-builder.code.com",
         "strapiapp.com",
@@ -5827,9 +5829,6 @@
         "org.ma",
         "press.ma"
     ],
-    "management": [
-        "router.management"
-    ],
     "mc": [
         "asso.mc",
         "tm.mc"
@@ -7376,6 +7375,7 @@
         "doesntexist.org",
         "dontexist.org",
         "doomdns.org",
+        "dpdns.org",
         "dsmynas.org",
         "duckdns.org",
         "dvrdns.org",
