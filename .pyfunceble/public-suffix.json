@@ -3025,7 +3025,6 @@
         "beagleboard.io",
         "bitbucket.io",
         "bluebite.io",
-        "box.ca",
         "boxfuse.io",
         "brave.io",
         "browsersafetymark.io",
@@ -5748,6 +5747,8 @@
         "dweb.link",
         "inbrowser.link",
         "ipfs.nftstorage.link",
+        "ipfs.storacha.link",
+        "ipfs.w3s.link",
         "myfritz.link",
         "mypep.link"
     ],
