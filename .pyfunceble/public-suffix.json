@@ -2706,6 +2706,9 @@
         "net.gl",
         "org.gl"
     ],
+    "global": [
+        "appwrite.global"
+    ],
     "gn": [
         "ac.gn",
         "com.gn",
@@ -8025,6 +8028,7 @@
         "vps.myjino.ru"
     ],
     "run": [
+        "appwrite.run",
         "build.run",
         "code.run",
         "database.run",
