@@ -1202,6 +1202,7 @@
         "atmeta.com",
         "auth-fips.us-east-1.amazoncognito.com",
         "auth-fips.us-east-2.amazoncognito.com",
+        "auth-fips.us-gov-east-1.amazoncognito.com",
         "auth-fips.us-gov-west-1.amazoncognito.com",
         "auth-fips.us-west-1.amazoncognito.com",
         "auth-fips.us-west-2.amazoncognito.com",
@@ -1216,6 +1217,7 @@
         "auth.ap-southeast-2.amazoncognito.com",
         "auth.ap-southeast-3.amazoncognito.com",
         "auth.ap-southeast-4.amazoncognito.com",
+        "auth.ap-southeast-5.amazoncognito.com",
         "auth.ca-central-1.amazoncognito.com",
         "auth.ca-west-1.amazoncognito.com",
         "auth.eu-central-1.amazoncognito.com",
@@ -2775,6 +2777,7 @@
         "hra.health"
     ],
     "hk": [
+        "biz.pk",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -3765,7 +3768,6 @@
         "ciao.jp",
         "co.jp",
         "cocotte.jp",
-        "com.lb",
         "coolblog.jp",
         "cranky.jp",
         "crap.jp",
@@ -7587,7 +7589,6 @@
     ],
     "pk": [
         "ac.pk",
-        "biz.pk",
         "com.pk",
         "edu.pk",
         "fam.pk",
@@ -8185,6 +8186,7 @@
         "cpanel.site",
         "cyon.site",
         "fastvps.site",
+        "figma.site",
         "heyflow.site",
         "jele.site",
         "jouwweb.site",
