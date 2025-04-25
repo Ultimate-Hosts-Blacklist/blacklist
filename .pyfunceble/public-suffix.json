@@ -1295,6 +1295,7 @@
         "dev-builder.code.com",
         "dev-myqnapcloud.com",
         "dev.adobeaemcloud.com",
+        "dev.project-study.com",
         "devinapps.com",
         "digitaloceanspaces.com",
         "discordsays.com",
@@ -2394,6 +2395,7 @@
         "lclstage.dev",
         "localplayer.dev",
         "loginline.dev",
+        "lp.dev",
         "mediatech.dev",
         "modx.dev",
         "myaddr.dev",
@@ -5691,6 +5693,7 @@
         "kg.kr",
         "me.kr",
         "mil.kr",
+        "mmv.kr",
         "ms.kr",
         "ne.kr",
         "or.kr",
@@ -5698,7 +5701,8 @@
         "re.kr",
         "sc.kr",
         "seoul.kr",
-        "ulsan.kr"
+        "ulsan.kr",
+        "vki.kr"
     ],
     "krd": [
         "co.krd",
@@ -5842,8 +5846,7 @@
         "gov.ma",
         "net.ma",
         "org.ma",
-        "press.ma",
-        "swiebodzin.pl"
+        "press.ma"
     ],
     "mc": [
         "asso.mc",
@@ -8206,6 +8209,7 @@
         "omniwe.site",
         "opensocial.site",
         "platformsh.site",
+        "preview.site",
         "square.site",
         "srht.site",
         "tst.site",
