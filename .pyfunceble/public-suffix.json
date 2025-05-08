@@ -2421,8 +2421,6 @@
         "staging.replit.dev",
         "stg.dev",
         "stgstage.dev",
-        "sub.psl.hrsn.dev",
-        "sub.wc.psl.hrsn.dev",
         "sulu.replit.dev",
         "tarpit.replit.dev",
         "teams.replit.dev",
@@ -2433,7 +2431,6 @@
         "wa.crm.dev",
         "wb.crm.dev",
         "wc.crm.dev",
-        "wc.psl.hrsn.dev",
         "wd.crm.dev",
         "we.crm.dev",
         "webhare.dev",
@@ -6199,7 +6196,6 @@
         "krellian.net",
         "live-on.net",
         "localcert.net",
-        "localhostcert.net",
         "localto.net",
         "lon-1.paas.massivegrid.net",
         "lon-2.paas.massivegrid.net",
@@ -6807,7 +6803,6 @@
         "nord-aurdal.no",
         "nord-fron.no",
         "nord-odal.no",
-        "norddal.no",
         "nordkapp.no",
         "nordre-land.no",
         "nordreisa.no",
@@ -7576,6 +7571,7 @@
         "org.pf"
     ],
     "pg": [
+        "norddal.no",
         "pg"
     ],
     "ph": [
