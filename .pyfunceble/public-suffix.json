@@ -6803,6 +6803,7 @@
         "nord-aurdal.no",
         "nord-fron.no",
         "nord-odal.no",
+        "norddal.no",
         "nordkapp.no",
         "nordre-land.no",
         "nordreisa.no",
@@ -7571,7 +7572,6 @@
         "org.pf"
     ],
     "pg": [
-        "norddal.no",
         "pg"
     ],
     "ph": [
