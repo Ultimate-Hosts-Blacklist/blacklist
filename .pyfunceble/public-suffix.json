@@ -1481,6 +1481,7 @@
         "execute-api.sa-east-1.amazonaws.com",
         "execute-api.us-east-1.amazonaws.com",
         "execute-api.us-east-2.amazonaws.com",
+        "execute-api.us-gov-east-1.amazonaws.com",
         "execute-api.us-gov-west-1.amazonaws.com",
         "execute-api.us-west-1.amazonaws.com",
         "execute-api.us-west-2.amazonaws.com",
@@ -3094,6 +3095,7 @@
         "pstmn.io",
         "qcx.io",
         "qoto.io",
+        "qzz.io",
         "readthedocs.io",
         "reservd.dev.thingdust.io",
         "reservd.disrec.thingdust.io",
@@ -5615,7 +5617,8 @@
         "mil.kg",
         "net.kg",
         "org.kg",
-        "us.kg"
+        "us.kg",
+        "xx.kg"
     ],
     "kh": [
         "kh"
@@ -6492,7 +6495,6 @@
         "evenes.no",
         "evenášši.no",
         "evje-og-hornnes.no",
-        "execute-api.us-gov-east-1.amazonaws.com",
         "farsund.no",
         "fauske.no",
         "fedje.no",
