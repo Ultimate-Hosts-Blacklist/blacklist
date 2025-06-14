@@ -6351,6 +6351,7 @@
         "za.net"
     ],
     "network": [
+        "aem.network",
         "alces.network",
         "arvo.network",
         "azimuth.network",
@@ -6427,7 +6428,6 @@
         "123hjemmeside.no",
         "aa.no",
         "aarborte.no",
-        "ae.org",
         "aejrie.no",
         "afjord.no",
         "agdenes.no",
@@ -7617,7 +7617,6 @@
         "codeberg.page",
         "heyflow.page",
         "hlx.page",
-        "hlx3.page",
         "pdns.page",
         "plesk.page",
         "prvcy.page",
@@ -8026,6 +8025,9 @@
         "can.re",
         "com.re",
         "netlib.re"
+    ],
+    "reviews": [
+        "aem.reviews"
     ],
     "rip": [
         "clan.rip"
