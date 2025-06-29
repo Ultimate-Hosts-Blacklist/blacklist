@@ -2865,6 +2865,7 @@
     "hk": [
         "com.hk",
         "edu.hk",
+        "enscaled.sg",
         "gov.hk",
         "idv.hk",
         "inc.hk",
@@ -5830,7 +5831,8 @@
         "int.la",
         "net.la",
         "org.la",
-        "per.la"
+        "per.la",
+        "sweetpepper.org"
     ],
     "lb": [
         "com.lb",
@@ -8248,7 +8250,6 @@
     "sg": [
         "com.sg",
         "edu.sg",
-        "enscaled.sg",
         "gov.sg",
         "net.sg",
         "org.sg"
