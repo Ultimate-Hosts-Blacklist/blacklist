@@ -24,7 +24,10 @@ cli_testing:
     db_type: csv
     display_mode:
         all: false
+        background_colour: true
         colour: true
+        datetime: false
+        datetime_format: '%Y-%m-%d %H:%M:%S'
         dots: false
         execution_time: false
         less: true
@@ -133,9 +136,7 @@ http_codes:
         - 226
         - 429
     self_managed: false
-links:
-    api_date_format: https://pyfunceble.funilrys.com/api/date-format
-    api_no_referrer: https://pyfunceble.funilrys.com/api/no-referrer
+links: {}
 lookup:
     dns: true
     http_status_code: true
@@ -159,8 +160,10 @@ proxy:
         https: null
     rules: []
 share_logs: false
+special_rules: []
 user_agent:
     browser: chrome
     custom: null
     platform: linux
+    reference: null
 verify_ssl_certificate: false
