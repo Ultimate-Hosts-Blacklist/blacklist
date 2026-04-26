@@ -1,7 +1,7 @@
 name: UHB Test Scheduler
 on:
   schedule:
-    - cron: "24 1 * * *"
+    - cron: "52 4 * * *"
 
 env:
   GIT_NAME: "${{ secrets.GIT_BOT_NAME }}"
