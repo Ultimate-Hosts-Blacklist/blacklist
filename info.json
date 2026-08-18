@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 1,
-    "end_datetime": "2026-08-17T11:05:02.323310",
-    "end_epoch": 1786964702.32331,
+    "end_datetime": "2026-08-18T12:01:56.838185",
+    "end_epoch": 1787054516.838185,
     "name": "blacklist",
     "previous_end_datetime": "2026-08-17T11:05:02.323310",
     "previous_end_epoch": 1786964702.32331,
